@@ -1,0 +1,27 @@
+name: Ryzen-3-4300GE
+humanName: Ryzen 3 4300GE
+isPart: true
+type: CPU
+inherits:
+- GCN 5.1
+- Renoir
+data:
+  L1 Cache (Data): 128 KiB
+  L1 Cache (Instruction): 128 KiB
+  L2 Cache (Total): 2 MiB
+  L3 Cache (Total): 4 MiB
+  TDP: 35 W
+  Core Count: 4
+  Thread Count: 8
+  Base Frequency: 3.5 GHz
+  Boost Frequency: 4.0 GHz
+  Unlocked: true
+  GPU Model: RX Vega 6
+  GPU Base Frequency: 400 MHz
+  GPU Boost Frequency: 1700 MHz
+  Max Displays: 4
+  Shader Processor Count: 384
+  Texture Mapping Unit Count: 24
+  Render Output Unit Count: 8
+#  FP32 Compute: 1.502 TFLOPS
+#  FP64 Compute: 80.4 GFLOPS

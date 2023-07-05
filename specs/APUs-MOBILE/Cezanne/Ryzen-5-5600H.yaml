@@ -1,0 +1,27 @@
+name: Ryzen-5-5600H
+humanName: Ryzen 5 5600H
+isPart: true
+type: CPU
+inherits:
+- GCN 5.1
+- Cezanne-M
+data:
+  Release Date: '2021-01-12'
+  L1 Cache (Data): 192 KiB
+  L1 Cache (Instruction): 192 KiB
+  L2 Cache (Total): 3 MiB
+  L3 Cache (Total): 16 MiB
+  TDP: 45 W
+  Core Count: 6
+  Thread Count: 12
+  Base Frequency: 3.3 GHz
+  Boost Frequency: 4.2 GHz
+  GPU Model: RX Vega 7
+  GPU Base Frequency: 300 MHz
+  GPU Boost Frequency: 1800 MHz
+  Max Displays: 4
+  Shader Processor Count: 448
+  Texture Mapping Unit Count: 28
+  Render Output Unit Count: 8
+  FP32 Compute: 1.613 TFLOPS
+  FP64 Compute: 100.8 GFLOPS

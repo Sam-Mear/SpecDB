@@ -1,0 +1,27 @@
+name: Ryzen-7-5800HS
+humanName: Ryzen 7 5800HS
+isPart: true
+type: CPU
+inherits:
+- GCN 5.1
+- Cezanne-M
+data:
+  Release Date: '2021-01-12'
+  L1 Cache (Data): 256 KiB
+  L1 Cache (Instruction): 256 KiB
+  L2 Cache (Total): 4 MiB
+  L3 Cache (Total): 16 MiB
+  TDP: 35 W
+  Core Count: 8
+  Thread Count: 16
+  Base Frequency: 2.8 GHz
+  Boost Frequency: 4.4 GHz
+  GPU Model: RX Vega 8
+  GPU Base Frequency: 300 MHz
+  GPU Boost Frequency: 2000 MHz
+  Max Displays: 4
+  Shader Processor Count: 512
+  Texture Mapping Unit Count: 32
+  Render Output Unit Count: 8
+  FP32 Compute: 2.048 TFLOPS
+  FP64 Compute: 128 GFLOPS

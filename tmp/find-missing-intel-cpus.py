@@ -2,12 +2,21 @@ import os
 import json
 import yaml
 
+#
+# would like to move this into classes.-  have functions to do the same thing here
+# Classes to have formatted name and original name, brand and the other information
+# probably move to php 
+#
+
 def format_string(input_string):
   # Remove whitespace and hyphens
   formatted_string = input_string.replace(" ", "-")
   
   # Convert to lowercase
   formatted_string = formatted_string.lower()
+
+  formatted_string.replace('geforce-','')
+  formatted_string.replace('radeon-', '')
   
   return formatted_string
 
@@ -16,8 +25,8 @@ script_directory = os.path.dirname(os.path.abspath(__file__))
 parent_directory = os.path.dirname(script_directory)
 folder_path = os.path.join(parent_directory, 'specs', 'MISSINGCPUS')
 specs_path = os.path.join(parent_directory, 'specs')
-json_file_path = os.path.join(script_directory, 'specs.js')
-json_geekbench_path = os.path.join(script_directory, 'geekbench-parse.json')
+json_file_path = os.path.join(script_directory, 'specs.json')
+json_geekbench_path = os.path.join(script_directory, 'userbenchmark-parse.json')
 
 listOfCPUs = []
 # Load JSON data from the file
@@ -31,10 +40,17 @@ for cpu_name, cpu_data in json_data.items():
   if cpu_data.get('type') == 'CPU':
     listOfCPUs.append(format_string(cpu_name))
 
-cpu_names = [format_string(item['combineMetadata']['matcherInfo']['name'].strip().replace('Intel ','').replace('AMD ','')) for item in json_geekbench_data]
-for item in cpu_names:
-  if "core" not in item:
-    cpu_names.remove(item)
+cpu_names = []
+
+for item in json_geekbench_data:
+    if item['combineMetadata']['matcherInfo']['brand'] in ['AMD', 'Intel', 'Nvidia'] and item['combineMetadata']['matcherInfo']['type'] == 'CPU':
+      name = item['combineMetadata']['matcherInfo']['name'].strip()
+      name = name.replace('Intel ', '').replace('AMD ', '')
+      formatted_name = format_string(name)
+      cpu_names.append(formatted_name)
+# for item in cpu_names:
+#   if "core" not in item:
+#     cpu_names.remove(item)
 
 missingcpus = []
 # Print the CPU names
@@ -80,7 +96,7 @@ def create_yaml_files(missingcpus):
           },
           'sections' : [
             {
-              'header' : 'MISSINGCPUS',
+              'header' : 'MISSINGCPUS', 
               'members' : missingcpus
             }
           ]}

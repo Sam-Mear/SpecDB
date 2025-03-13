@@ -1,0 +1,17 @@
+{
+    "name": "specdb/missing-parts",
+    "description": "finds gaps in the specdb database",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "SpecDB\\MissingParts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sam Mear",
+            "email": "sam.mear2@gmail.com"
+        }
+    ],
+    "require": {}
+}

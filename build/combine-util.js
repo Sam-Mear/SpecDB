@@ -65,7 +65,8 @@ const combineUtil = {
 		hints.cleanName = hints.name
 			.replace(/[ _]/g, '-');
 		['processor', 'radeon'].forEach(w => {
-			hints.cleanName = hints.cleanName.replace(new RegExp(`-*${w}-*`, 'i'), '');
+			hints.cleanName = hints.cleanName.replace(new RegExp(`-${w}`, 'i'), '');
+			hints.cleanName = hints.cleanName.replace(new RegExp(`${w}*-`, 'i'), '');
 		});
 
 		['amd', 'intel', 'nvidia'].forEach(b => {

@@ -16,6 +16,10 @@ class UserBenchmarkMatcher
         get { return $this->formatName($this->name); }
     }
 
+    public string $specDbName {
+        get { return str_replace(' ', '-',$this->name); }
+    }
+
     public string $brand;
 
     public PcPartEnum $type;
@@ -54,7 +58,7 @@ class UserBenchmarkMatcher
     {
         return sprintf("name: %s
 humanName: %s
-isPart: True
+isPart: true
 type: %s
 data: 
   Manufacturer: %s
@@ -63,6 +67,6 @@ data:
   Base Frequency: not complete
   TDP: not complete
 
-            ", $this->formattedName, $this->name, $this->type->toString(), $this->brand);
+            ", $this->specDbName, $this->name, $this->type->toString(), $this->brand);
     }
 }

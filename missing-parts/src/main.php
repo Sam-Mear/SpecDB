@@ -74,7 +74,7 @@ foreach ($contents as $matcher) {
         printf('%s, %s, %s,%s', $bah->name, $bah->type->toString(), $bah->brand, PHP_EOL);
         $bah->placeSpecDbFile();
 
-        $missingNames[] = $bah->formattedName;
+        $missingNames[] = $bah->specDbName;
 
     }
     $bahList[] = $bah;

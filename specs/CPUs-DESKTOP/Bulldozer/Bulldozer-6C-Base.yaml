@@ -1,4 +1,4 @@
-hidden: true
+type: Hidden
 name: Bulldozer 6C Base
 inherits:
   - Bulldozer

@@ -120,7 +120,7 @@ test('YAMLVERIFY: All clear', t => {
 		],
 	}), 'complex section');
 	t.doesNotThrow(() => yamlVerify({
-		hidden: true,
+		type: Hidden,
 	}), 'minimal hidden');
 
 	t.end();

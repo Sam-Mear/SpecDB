@@ -311,6 +311,7 @@ const util = {
 					atPath('data.Base Frequency', parseStringy),
 					atPath('data.Shader Processor Count', parseStringy),
 				],
+				'Hidden': [],
 			};
 
 			atPath('type', parseType('string'))(p);
@@ -320,7 +321,6 @@ const util = {
 
 		and(
 			or(
-				atPath('hidden', parseTrue),
 				//and(
 					//forHumanYamls ? atPath('name', parseStringy) : _.noop,
 				//),

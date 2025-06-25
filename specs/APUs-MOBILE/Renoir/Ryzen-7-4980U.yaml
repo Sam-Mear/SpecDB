@@ -3,7 +3,7 @@ humanName: Ryzen 7 4980U
 isPart: true
 type: APU
 inherits:
-  - GCN 5.1
+  - GCN-5.1
   - Renoir-M
 data:
   Release Date: '2020-04-13'

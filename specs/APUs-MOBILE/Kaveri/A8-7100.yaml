@@ -3,8 +3,8 @@ name: A8-7100
 humanName: A8-7100
 type: APU
 inherits:
-  - GCN 2
-  - Kaveri
+  - GCN-2
+  - Kaveri-apu
 data:
 
   Core Count: 4

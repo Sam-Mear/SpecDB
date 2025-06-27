@@ -3,7 +3,7 @@ humanName: Ryzen 5 4600G
 isPart: true
 type: CPU
 inherits:
-- GCN 5.1
+- GCN-5.1
 - Renoir
 data:
   L1 Cache (Data): 192 KiB

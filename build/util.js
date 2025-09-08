@@ -331,16 +331,7 @@ const util = {
 		};
 
 		and(
-			or(
-				//and(
-					//forHumanYamls ? atPath('name', parseStringy) : _.noop,
-				//),
-				and(
-					//forHumanYamls ? atPath('name', parseStringy) : _.noop,
-					// atPath('humanName', parseStringy),
-					parseRequiredSubtextData,
-				),
-			),
+			parseRequiredSubtextData,
 			atPath('inherits',
 				or(
 					parseType('undefined'),

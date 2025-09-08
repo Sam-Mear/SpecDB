@@ -134,7 +134,6 @@ test('YAMLVERIFY: All clear', t => {
 		],
 	}), 'complex section');
 
-	// disable for now
 	t.doesNotThrow(() => yamlVerify({
 		name: 'sam-inherit',
 		type: "Hidden",

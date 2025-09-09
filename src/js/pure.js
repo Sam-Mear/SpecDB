@@ -1,5 +1,6 @@
 // pure easy to test stuff goes here for some reason
 
+const specTypes = ['CPU', 'Graphics Card', 'APU'];
 module.exports.genSubtext = (data, passedSpecData) => {
 	const innerData = data.data;
 	
@@ -38,7 +39,7 @@ module.exports.genSubtext = (data, passedSpecData) => {
 			if (!part) {
 				return;
 			}
-			if (part.isPart) {
+			if (specTypes.includes(part.type)) {
 				t++;
 			} else {
 				part.sections.forEach(sec =>

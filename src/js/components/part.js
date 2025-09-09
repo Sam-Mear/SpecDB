@@ -2,6 +2,7 @@ const m = require('mithril');
 const specData = require('spec-data');
 const pure = require('../pure');
 const hashMan = require('../hash');
+const specTypes = ['CPU', 'Graphics Card', 'APU'];
 
 module.exports = {
 	view: vnode => {
@@ -12,7 +13,7 @@ module.exports = {
 		}
 		return m('.part', {
 				onclick: () => {
-					if(curData.isPart) {
+					if(specTypes.includes(curData.type)) {
 						if(vnode.attrs.canSelect) {
 							// add part to list
 							hashMan.add(vnode.attrs.name);

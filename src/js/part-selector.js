@@ -6,6 +6,7 @@ const svg = require('./components/svg');
 
 // by caching json representation of parts, it is actually quite a bit faster searching
 // shouldn't use more than a few megs of ram
+const specTypes = ['CPU', 'Graphics Card', 'APU'];
 const specDataJSONs = {};
 const search = {
 	searchTerm: '',
@@ -28,7 +29,7 @@ const search = {
 		const unlimitedSearchResults = Object.keys(specData)
 		.filter(c =>
 			searchWords.every(term =>
-				specDataJSONs[c].includes(term) && specData[c].isPart
+				specDataJSONs[c].includes(term) && specTypes.includes(specData[c].type)
 			)
 		)
 		// group by type

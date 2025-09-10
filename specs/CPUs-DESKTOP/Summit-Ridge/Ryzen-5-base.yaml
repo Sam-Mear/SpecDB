@@ -1,4 +1,4 @@
-hidden: true
+type: Hidden
 name: Ryzen R5 Base
 inherits:
   - Summit-Ridge

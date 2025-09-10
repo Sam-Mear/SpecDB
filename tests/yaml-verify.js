@@ -52,6 +52,18 @@ test('YAMLVERIFY: Wrong types', t => {
 	t.end();
 });
 
+test('YAMLVERIFY: Invalid type throws', t => {
+	t.throws(() => yamlVerify({
+		name: 'Bogus',
+		humanName: 'Bogus',
+		isPart: true,
+		type: 'BogusType',
+		data: {},
+	}), /Unknown type/i, 'should throw for unknown type');
+
+	t.end();
+});
+
 test('YAMLVERIFY: inherits', t => {
 	const typeRegex = /incorrect type/i;
 
@@ -90,6 +102,7 @@ test('YAMLVERIFY: All clear', t => {
 			'Thread Count': 1e25, // i.e, 1 bajillion
 		},
 	}), 'basic CPU part');
+
 	t.doesNotThrow(() => yamlVerify({
 		humanName: 'BLEP',
 		isPart: false,
@@ -101,6 +114,7 @@ test('YAMLVERIFY: All clear', t => {
 			{ header: 'BLYZEN APUs', members: [ 'B6-BBBB' ]},
 		],
 	}), 'section');
+
 	t.doesNotThrow(() => yamlVerify({
 		humanName: 'rr',
 		isPart: false,
@@ -119,8 +133,10 @@ test('YAMLVERIFY: All clear', t => {
 			{ header: 'do NOT say yeet one more fucking time', members: [ 'HH, h', 'rr'] },
 		],
 	}), 'complex section');
+
 	t.doesNotThrow(() => yamlVerify({
-		hidden: true,
+		name: 'sam-inherit',
+		type: "Hidden",
 	}), 'minimal hidden');
 
 	t.end();

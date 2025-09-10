@@ -8,6 +8,7 @@ data:
   DirectX Support: '12.2'
   Vulkan Support: '1.4'
   Manufacturer: Moore-Threads
+  Release Date: '2025'
 sections:
   - header: WHOLE RANGE
     members:

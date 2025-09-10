@@ -1,6 +1,6 @@
 name: GeForce-GTX-770M
 humanName: GeForce GTX 770M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

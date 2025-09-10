@@ -1,6 +1,6 @@
 name: Quadro-K4000
 humanName: Quadro K4000
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

@@ -1,6 +1,6 @@
 name: GeForce-MX150
 humanName: GeForce MX150
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

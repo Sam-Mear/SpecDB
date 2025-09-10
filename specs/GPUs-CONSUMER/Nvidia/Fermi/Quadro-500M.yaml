@@ -1,6 +1,6 @@
 name: Quadro-500M
 humanName: Quadro 500M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

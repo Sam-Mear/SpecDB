@@ -1,6 +1,6 @@
 name: GeForce-GT-440-OEM
 humanName: GeForce GT 440 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: ROG-Ally-Extreme-GPU
 humanName: ROG Ally Extreme GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-R5-230-OEM
 humanName: Radeon R5 230 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

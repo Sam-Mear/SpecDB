@@ -1,6 +1,6 @@
 name: Radeon-HD-7400G-IGP
 humanName: Radeon HD 7400G IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

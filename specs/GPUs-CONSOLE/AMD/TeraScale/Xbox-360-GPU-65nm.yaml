@@ -1,6 +1,6 @@
 name: Xbox-360-GPU-65nm
 humanName: Xbox 360 GPU 65nm
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

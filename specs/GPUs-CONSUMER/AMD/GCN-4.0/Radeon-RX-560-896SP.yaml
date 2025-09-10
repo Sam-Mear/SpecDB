@@ -1,6 +1,6 @@
 name: Radeon-RX-560-896SP
 humanName: Radeon RX 560 896SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

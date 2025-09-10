@@ -1,6 +1,6 @@
 name: Radeon-R9-255-OEM
 humanName: Radeon R9 255 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

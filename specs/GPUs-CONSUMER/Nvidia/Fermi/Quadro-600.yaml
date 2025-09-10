@@ -1,6 +1,6 @@
 name: Quadro-600
 humanName: Quadro 600
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GTX-780-6-GB
 humanName: GeForce GTX 780 6 GB
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

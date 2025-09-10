@@ -1,6 +1,6 @@
 name: HD-Graphics-405-Mobile
 humanName: HD Graphics 405 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

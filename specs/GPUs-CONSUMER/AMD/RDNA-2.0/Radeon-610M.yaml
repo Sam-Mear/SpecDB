@@ -1,6 +1,6 @@
 name: Radeon-610M
 humanName: Radeon 610M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

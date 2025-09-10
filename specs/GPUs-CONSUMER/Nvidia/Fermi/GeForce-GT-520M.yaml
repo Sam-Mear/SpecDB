@@ -1,6 +1,6 @@
 name: GeForce-GT-520M
 humanName: GeForce GT 520M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

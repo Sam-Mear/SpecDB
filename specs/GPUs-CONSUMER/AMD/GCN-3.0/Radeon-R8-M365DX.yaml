@@ -1,6 +1,6 @@
 name: Radeon-R8-M365DX
 humanName: Radeon R8 M365DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

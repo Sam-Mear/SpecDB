@@ -1,6 +1,6 @@
 name: Radeon-540X-Mobile
 humanName: Radeon 540X Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

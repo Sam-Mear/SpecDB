@@ -1,6 +1,6 @@
 name: GeForce-9600-GSO
 humanName: GeForce 9600 GSO
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

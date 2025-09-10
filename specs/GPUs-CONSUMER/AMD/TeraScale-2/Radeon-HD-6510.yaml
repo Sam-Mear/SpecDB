@@ -1,6 +1,6 @@
 name: Radeon-HD-6510
 humanName: Radeon HD 6510
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

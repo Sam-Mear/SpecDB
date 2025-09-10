@@ -1,6 +1,6 @@
 name: Radeon-HD-7370M
 humanName: Radeon HD 7370M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

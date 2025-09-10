@@ -1,6 +1,6 @@
 name: GeForce-RTX-4050
 humanName: GeForce RTX 4050
-isPart: true
+
 type: Graphics Card
 data:
   Market:

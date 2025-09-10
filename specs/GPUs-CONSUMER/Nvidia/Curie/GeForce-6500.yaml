@@ -1,6 +1,6 @@
 name: GeForce-6500
 humanName: GeForce 6500
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

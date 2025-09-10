@@ -1,6 +1,6 @@
 name: A2-PCIe
 humanName: A2 PCIe
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

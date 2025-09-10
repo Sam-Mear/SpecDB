@@ -1,6 +1,6 @@
 name: Radeon-HD-3450-PCI
 humanName: Radeon HD 3450 PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

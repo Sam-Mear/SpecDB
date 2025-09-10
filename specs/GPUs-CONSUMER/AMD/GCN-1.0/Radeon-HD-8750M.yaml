@@ -1,6 +1,6 @@
 name: Radeon-HD-8750M
 humanName: Radeon HD 8750M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

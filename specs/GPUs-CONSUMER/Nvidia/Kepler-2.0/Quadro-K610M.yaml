@@ -1,6 +1,6 @@
 name: Quadro-K610M
 humanName: Quadro K610M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

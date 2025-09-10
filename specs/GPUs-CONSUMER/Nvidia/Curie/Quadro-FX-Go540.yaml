@@ -1,6 +1,6 @@
 name: Quadro-FX-Go540
 humanName: Quadro FX Go540
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

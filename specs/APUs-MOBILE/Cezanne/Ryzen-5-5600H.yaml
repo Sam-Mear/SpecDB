@@ -1,6 +1,6 @@
 name: Ryzen-5-5600H
 humanName: Ryzen 5 5600H
-isPart: true
+
 type: CPU
 inherits:
 - GCN 5.1

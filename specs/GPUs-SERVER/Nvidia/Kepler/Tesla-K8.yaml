@@ -1,6 +1,6 @@
 name: Tesla-K8
 humanName: Tesla K8
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

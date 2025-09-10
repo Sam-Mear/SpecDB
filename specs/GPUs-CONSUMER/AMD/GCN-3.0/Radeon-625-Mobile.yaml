@@ -1,6 +1,6 @@
 name: Radeon-625-Mobile
 humanName: Radeon 625 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

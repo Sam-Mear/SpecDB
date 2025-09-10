@@ -1,6 +1,6 @@
 name: Ryzen-5-PRO-4650GE
 humanName: Ryzen 5 PRO 4650GE
-isPart: true
+
 type: CPU
 inherits:
 - GCN 5.1

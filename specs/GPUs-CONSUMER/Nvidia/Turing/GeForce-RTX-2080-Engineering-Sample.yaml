@@ -1,6 +1,6 @@
 name: GeForce-RTX-2080-Engineering-Sample
 humanName: GeForce RTX 2080 Engineering Sample
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

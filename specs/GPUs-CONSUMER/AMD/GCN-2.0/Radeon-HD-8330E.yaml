@@ -1,6 +1,6 @@
 name: Radeon-HD-8330E
 humanName: Radeon HD 8330E
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

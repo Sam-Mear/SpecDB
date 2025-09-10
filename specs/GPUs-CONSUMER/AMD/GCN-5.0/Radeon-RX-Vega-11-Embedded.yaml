@@ -1,6 +1,6 @@
 name: Radeon-RX-Vega-11-Embedded
 humanName: Radeon RX Vega 11 Embedded
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Xbox-Series-S-GPU
 humanName: Xbox Series S GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

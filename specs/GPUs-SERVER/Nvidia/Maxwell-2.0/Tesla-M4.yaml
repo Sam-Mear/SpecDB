@@ -1,6 +1,6 @@
 name: Tesla-M4
 humanName: Tesla M4
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

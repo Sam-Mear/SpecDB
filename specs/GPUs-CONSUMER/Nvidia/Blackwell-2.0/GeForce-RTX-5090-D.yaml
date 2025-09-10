@@ -1,6 +1,6 @@
 name: GeForce-RTX-5090-D
 humanName: GeForce RTX 5090 D
-isPart: true
+
 type: Graphics Card
 data:
   Market:

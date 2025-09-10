@@ -1,6 +1,6 @@
 name: X4-950
 humanName: X4 950
-isPart: true
+
 type: CPU
 inherits:
   - Excavator-4C-Base

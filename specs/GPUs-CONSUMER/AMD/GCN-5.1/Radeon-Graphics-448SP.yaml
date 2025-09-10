@@ -1,6 +1,6 @@
 name: Radeon-Graphics-448SP
 humanName: Radeon Graphics 448SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

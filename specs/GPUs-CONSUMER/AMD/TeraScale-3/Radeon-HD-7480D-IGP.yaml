@@ -1,6 +1,6 @@
 name: Radeon-HD-7480D-IGP
 humanName: Radeon HD 7480D IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

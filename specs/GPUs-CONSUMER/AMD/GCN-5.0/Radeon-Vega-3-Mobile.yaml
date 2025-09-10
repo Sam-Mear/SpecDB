@@ -1,6 +1,6 @@
 name: Radeon-Vega-3-Mobile
 humanName: Radeon Vega 3 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: NVS-5200M
 humanName: NVS 5200M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

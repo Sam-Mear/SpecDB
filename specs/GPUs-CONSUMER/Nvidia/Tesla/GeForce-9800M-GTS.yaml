@@ -1,6 +1,6 @@
 name: GeForce-9800M-GTS
 humanName: GeForce 9800M GTS
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

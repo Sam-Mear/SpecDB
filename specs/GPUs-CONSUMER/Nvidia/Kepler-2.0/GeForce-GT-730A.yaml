@@ -1,6 +1,6 @@
 name: GeForce-GT-730A
 humanName: GeForce GT 730A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Quadro-K6000-SDI
 humanName: Quadro K6000 SDI
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

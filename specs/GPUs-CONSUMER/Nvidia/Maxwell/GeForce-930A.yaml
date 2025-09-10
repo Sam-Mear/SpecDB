@@ -1,6 +1,6 @@
 name: GeForce-930A
 humanName: GeForce 930A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-7600-GT-AGP
 humanName: GeForce 7600 GT AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

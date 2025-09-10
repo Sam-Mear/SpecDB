@@ -1,6 +1,6 @@
 name: Radeon-HD-8530M
 humanName: Radeon HD 8530M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-7350-LE
 humanName: GeForce 7350 LE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

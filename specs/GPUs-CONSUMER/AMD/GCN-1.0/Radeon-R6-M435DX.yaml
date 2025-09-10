@@ -1,6 +1,6 @@
 name: Radeon-R6-M435DX
 humanName: Radeon R6 M435DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

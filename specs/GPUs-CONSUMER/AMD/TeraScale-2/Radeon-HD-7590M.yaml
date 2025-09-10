@@ -1,6 +1,6 @@
 name: Radeon-HD-7590M
 humanName: Radeon HD 7590M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-HD-7970M
 humanName: Radeon HD 7970M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

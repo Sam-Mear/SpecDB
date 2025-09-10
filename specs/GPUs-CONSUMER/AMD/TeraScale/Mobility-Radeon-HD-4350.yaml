@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-4350
 humanName: Mobility Radeon HD 4350
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

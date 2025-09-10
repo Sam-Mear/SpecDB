@@ -1,6 +1,6 @@
 name: Ryzen-7-1700X
 humanName: Ryzen 7 1700X
-isPart: true
+
 type: CPU
 inherits:
   - Ryzen R7 Base

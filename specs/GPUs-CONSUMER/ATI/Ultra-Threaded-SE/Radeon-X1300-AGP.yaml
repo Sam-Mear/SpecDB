@@ -1,6 +1,6 @@
 name: Radeon-X1300-AGP
 humanName: Radeon X1300 AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

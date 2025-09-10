@@ -1,6 +1,6 @@
 name: Radeon-HD-6670A
 humanName: Radeon HD 6670A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-3100-IGP
 humanName: Radeon 3100 IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

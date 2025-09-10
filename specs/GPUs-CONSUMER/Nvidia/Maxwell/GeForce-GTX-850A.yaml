@@ -1,6 +1,6 @@
 name: GeForce-GTX-850A
 humanName: GeForce GTX 850A
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

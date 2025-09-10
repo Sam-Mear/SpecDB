@@ -1,6 +1,6 @@
 name: Ryzen-3-PRO-4450U
 humanName: Ryzen 3 PRO 4450U
-isPart: true
+
 type: APU
 inherits:
   - GCN 5.1

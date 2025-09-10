@@ -1,6 +1,6 @@
 name: Quadro-NVS-150M
 humanName: Quadro NVS 150M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GT-720-OEM
 humanName: GeForce GT 720 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

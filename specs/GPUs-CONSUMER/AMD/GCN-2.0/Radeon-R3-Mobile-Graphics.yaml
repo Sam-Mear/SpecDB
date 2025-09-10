@@ -1,6 +1,6 @@
 name: Radeon-R3-Mobile-Graphics
 humanName: Radeon R3 Mobile Graphics
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

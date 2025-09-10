@@ -1,6 +1,6 @@
 name: GeForce-GTX-275
 humanName: GeForce GTX 275
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

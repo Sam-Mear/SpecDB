@@ -1,6 +1,6 @@
 name: Radeon-RX-570X
 humanName: Radeon RX 570X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

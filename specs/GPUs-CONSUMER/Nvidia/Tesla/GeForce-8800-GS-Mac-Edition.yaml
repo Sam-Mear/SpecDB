@@ -1,6 +1,6 @@
 name: GeForce-8800-GS-Mac-Edition
 humanName: GeForce 8800 GS Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

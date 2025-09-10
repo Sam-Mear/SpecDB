@@ -1,6 +1,6 @@
 name: Data-Center-GPU-Max-NEXT
 humanName: Data Center GPU Max NEXT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

@@ -1,6 +1,6 @@
 name: Radeon-R7-450-OEM
 humanName: Radeon R7 450 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

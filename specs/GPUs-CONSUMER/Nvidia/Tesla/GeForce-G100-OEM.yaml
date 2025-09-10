@@ -1,6 +1,6 @@
 name: GeForce-G100-OEM
 humanName: GeForce G100 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

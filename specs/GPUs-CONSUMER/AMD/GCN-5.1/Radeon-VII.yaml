@@ -1,6 +1,6 @@
 name: Radeon-VII
 humanName: Radeon VII
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

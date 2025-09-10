@@ -1,6 +1,6 @@
 name: GeForce-RTX-3080-Max-Q
 humanName: GeForce RTX 3080 Max-Q
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

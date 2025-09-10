@@ -1,6 +1,6 @@
 name: Radeon-HD-8690M
 humanName: Radeon HD 8690M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

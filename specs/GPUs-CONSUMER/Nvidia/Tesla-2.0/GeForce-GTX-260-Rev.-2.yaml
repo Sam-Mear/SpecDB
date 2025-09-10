@@ -1,6 +1,6 @@
 name: GeForce-GTX-260-Rev.-2
 humanName: GeForce GTX 260 Rev. 2
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

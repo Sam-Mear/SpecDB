@@ -1,6 +1,6 @@
 name: Radeon-R5-M435
 humanName: Radeon R5 M435
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

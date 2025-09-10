@@ -1,6 +1,6 @@
 name: Radeon-RX-6800S
 humanName: Radeon RX 6800S
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

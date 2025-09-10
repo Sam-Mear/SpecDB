@@ -1,6 +1,6 @@
 name: Radeon-R5-Mobile-Graphics
 humanName: Radeon R5 Mobile Graphics
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

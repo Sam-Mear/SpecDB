@@ -1,6 +1,6 @@
 name: GeForce-G102M
 humanName: GeForce G102M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

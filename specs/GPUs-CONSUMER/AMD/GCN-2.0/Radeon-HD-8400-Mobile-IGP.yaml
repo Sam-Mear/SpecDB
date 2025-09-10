@@ -1,6 +1,6 @@
 name: Radeon-HD-8400-Mobile-IGP
 humanName: Radeon HD 8400 Mobile IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

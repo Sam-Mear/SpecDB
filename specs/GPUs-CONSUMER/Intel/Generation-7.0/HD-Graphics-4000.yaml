@@ -1,6 +1,6 @@
 name: HD-Graphics-4000
 humanName: HD Graphics 4000
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

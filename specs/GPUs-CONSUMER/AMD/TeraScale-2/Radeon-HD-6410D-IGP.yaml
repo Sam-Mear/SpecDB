@@ -1,6 +1,6 @@
 name: Radeon-HD-6410D-IGP
 humanName: Radeon HD 6410D IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

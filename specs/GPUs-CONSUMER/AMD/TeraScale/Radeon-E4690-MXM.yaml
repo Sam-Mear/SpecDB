@@ -1,6 +1,6 @@
 name: Radeon-E4690-MXM
 humanName: Radeon E4690 MXM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-800M
 humanName: GeForce 800M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

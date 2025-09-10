@@ -1,6 +1,6 @@
 name: Radeon-HD-7340-IGP
 humanName: Radeon HD 7340 IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

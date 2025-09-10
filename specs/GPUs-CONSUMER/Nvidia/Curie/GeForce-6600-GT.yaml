@@ -1,6 +1,6 @@
 name: GeForce-6600-GT
 humanName: GeForce 6600 GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

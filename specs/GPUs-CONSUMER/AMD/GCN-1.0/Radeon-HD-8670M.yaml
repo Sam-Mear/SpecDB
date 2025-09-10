@@ -1,6 +1,6 @@
 name: Radeon-HD-8670M
 humanName: Radeon HD 8670M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

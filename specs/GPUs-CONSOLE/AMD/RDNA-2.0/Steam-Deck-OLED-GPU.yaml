@@ -1,6 +1,6 @@
 name: Steam-Deck-OLED-GPU
 humanName: Steam Deck OLED GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

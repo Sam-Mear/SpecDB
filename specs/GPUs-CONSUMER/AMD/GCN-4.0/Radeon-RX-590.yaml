@@ -1,6 +1,6 @@
 name: Radeon-RX-590
 humanName: Radeon RX 590
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

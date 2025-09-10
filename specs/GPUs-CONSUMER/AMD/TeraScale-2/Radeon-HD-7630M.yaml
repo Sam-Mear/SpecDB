@@ -1,6 +1,6 @@
 name: Radeon-HD-7630M
 humanName: Radeon HD 7630M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

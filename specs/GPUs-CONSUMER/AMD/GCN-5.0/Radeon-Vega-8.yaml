@@ -1,6 +1,6 @@
 name: Radeon-Vega-8
 humanName: Radeon Vega 8
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

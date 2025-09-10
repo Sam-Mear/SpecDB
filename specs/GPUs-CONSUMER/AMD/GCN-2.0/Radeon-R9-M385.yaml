@@ -1,6 +1,6 @@
 name: Radeon-R9-M385
 humanName: Radeon R9 M385
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-RX-5500M
 humanName: Radeon RX 5500M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

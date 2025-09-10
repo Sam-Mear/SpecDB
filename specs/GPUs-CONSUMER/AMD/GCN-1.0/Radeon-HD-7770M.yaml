@@ -1,6 +1,6 @@
 name: Radeon-HD-7770M
 humanName: Radeon HD 7770M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

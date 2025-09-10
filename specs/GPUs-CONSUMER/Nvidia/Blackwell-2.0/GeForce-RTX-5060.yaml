@@ -1,6 +1,6 @@
 name: GeForce-RTX-5060
 humanName: GeForce RTX 5060
-isPart: true
+
 type: Graphics Card
 data:
   Market:

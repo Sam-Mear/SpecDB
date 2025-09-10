@@ -1,6 +1,6 @@
 name: GeForce-GTX-1050-Mobile
 humanName: GeForce GTX 1050 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

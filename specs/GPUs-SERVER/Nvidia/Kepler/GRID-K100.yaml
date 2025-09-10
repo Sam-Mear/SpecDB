@@ -1,6 +1,6 @@
 name: GRID-K100
 humanName: GRID K100
-isPart: true
+
 type: Graphics Card
 data:
   Market: Cloud Gaming

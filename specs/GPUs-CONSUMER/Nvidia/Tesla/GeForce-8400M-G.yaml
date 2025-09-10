@@ -1,6 +1,6 @@
 name: GeForce-8400M-G
 humanName: GeForce 8400M G
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

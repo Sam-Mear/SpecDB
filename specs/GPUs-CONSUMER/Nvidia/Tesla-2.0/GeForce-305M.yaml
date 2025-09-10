@@ -1,6 +1,6 @@
 name: GeForce-305M
 humanName: GeForce 305M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

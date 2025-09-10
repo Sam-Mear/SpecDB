@@ -1,6 +1,6 @@
 name: GeForce-Go-6600-NPB-128M
 humanName: GeForce Go 6600 NPB 128M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

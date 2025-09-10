@@ -1,6 +1,6 @@
 name: Radeon-RX-5300-OEM
 humanName: Radeon RX 5300 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

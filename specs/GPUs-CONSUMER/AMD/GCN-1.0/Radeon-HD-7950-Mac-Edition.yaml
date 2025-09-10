@@ -1,6 +1,6 @@
 name: Radeon-HD-7950-Mac-Edition
 humanName: Radeon HD 7950 Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

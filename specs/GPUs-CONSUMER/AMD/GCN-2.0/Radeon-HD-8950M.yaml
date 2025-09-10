@@ -1,6 +1,6 @@
 name: Radeon-HD-8950M
 humanName: Radeon HD 8950M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

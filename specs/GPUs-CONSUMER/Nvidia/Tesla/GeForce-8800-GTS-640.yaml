@@ -1,6 +1,6 @@
 name: GeForce-8800-GTS-640
 humanName: GeForce 8800 GTS 640
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

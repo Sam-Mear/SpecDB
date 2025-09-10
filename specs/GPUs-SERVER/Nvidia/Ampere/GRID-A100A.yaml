@@ -1,6 +1,6 @@
 name: GRID-A100A
 humanName: GRID A100A
-isPart: true
+
 type: Graphics Card
 data:
   Market: Cloud Gaming

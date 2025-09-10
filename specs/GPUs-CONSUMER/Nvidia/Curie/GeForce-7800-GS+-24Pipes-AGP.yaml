@@ -1,6 +1,6 @@
 name: GeForce-7800-GS+-24Pipes-AGP
 humanName: GeForce 7800 GS+ 24Pipes AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

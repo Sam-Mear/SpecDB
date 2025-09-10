@@ -1,6 +1,6 @@
 name: GeForce-GTS-240-OEM
 humanName: GeForce GTS 240 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

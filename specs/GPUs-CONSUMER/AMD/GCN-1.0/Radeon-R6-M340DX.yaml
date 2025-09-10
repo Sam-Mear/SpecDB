@@ -1,6 +1,6 @@
 name: Radeon-R6-M340DX
 humanName: Radeon R6 M340DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

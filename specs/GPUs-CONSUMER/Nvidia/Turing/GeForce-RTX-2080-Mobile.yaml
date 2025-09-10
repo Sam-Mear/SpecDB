@@ -1,6 +1,6 @@
 name: GeForce-RTX-2080-Mobile
 humanName: GeForce RTX 2080 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market:

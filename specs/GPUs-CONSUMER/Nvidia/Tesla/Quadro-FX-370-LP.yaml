@@ -1,6 +1,6 @@
 name: Quadro-FX-370-LP
 humanName: Quadro FX 370 LP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

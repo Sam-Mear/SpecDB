@@ -1,6 +1,6 @@
 name: Radeon-HD-6290
 humanName: Radeon HD 6290
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

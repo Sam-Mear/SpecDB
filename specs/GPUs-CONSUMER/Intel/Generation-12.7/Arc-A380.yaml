@@ -1,6 +1,6 @@
 name: Arc-A310
 humanName: Arc A310
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

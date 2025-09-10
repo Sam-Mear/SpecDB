@@ -1,6 +1,6 @@
 name: Radeon-HD-7650A
 humanName: Radeon HD 7650A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

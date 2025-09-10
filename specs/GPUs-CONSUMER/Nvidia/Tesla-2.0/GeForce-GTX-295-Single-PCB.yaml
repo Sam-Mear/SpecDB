@@ -1,6 +1,6 @@
 name: GeForce-GTX-295-Single-PCB
 humanName: GeForce GTX 295 Single PCB
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

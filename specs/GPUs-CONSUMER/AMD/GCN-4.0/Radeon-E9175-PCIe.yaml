@@ -1,6 +1,6 @@
 name: Radeon-E9175-PCIe
 humanName: Radeon E9175 PCIe
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

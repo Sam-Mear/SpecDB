@@ -1,6 +1,6 @@
 name: GeForce-RTX-3050-OEM
 humanName: GeForce RTX 3050 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

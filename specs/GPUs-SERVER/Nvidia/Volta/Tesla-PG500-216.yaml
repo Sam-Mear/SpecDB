@@ -1,6 +1,6 @@
 name: Tesla-PG500-216
 humanName: Tesla PG500-216
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

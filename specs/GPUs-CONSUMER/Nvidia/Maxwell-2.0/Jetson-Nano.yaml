@@ -1,6 +1,6 @@
 name: Jetson-Nano
 humanName: Jetson Nano
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GTX-560-Ti
 humanName: GeForce GTX 560 Ti
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Ryzen-7-4700U
 humanName: Ryzen 7 4700U
-isPart: true
+
 type: APU
 inherits:
   - GCN 5.1

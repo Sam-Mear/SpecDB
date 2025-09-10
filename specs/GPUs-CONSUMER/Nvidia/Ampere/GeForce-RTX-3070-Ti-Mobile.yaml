@@ -1,6 +1,6 @@
 name: GeForce-RTX-3070-Ti-Mobile
 humanName: GeForce RTX 3070 Ti Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

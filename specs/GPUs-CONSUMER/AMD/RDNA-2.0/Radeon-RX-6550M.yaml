@@ -1,6 +1,6 @@
 name: Radeon-RX-6550M
 humanName: Radeon RX 6550M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-X1650-AGP
 humanName: Radeon X1650 AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

@@ -1,6 +1,6 @@
 name: Quadro-K5000-SYNC
 humanName: Quadro K5000 SYNC
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

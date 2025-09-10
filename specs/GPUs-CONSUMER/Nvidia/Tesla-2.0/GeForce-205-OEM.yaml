@@ -1,6 +1,6 @@
 name: GeForce-205-OEM
 humanName: GeForce 205 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

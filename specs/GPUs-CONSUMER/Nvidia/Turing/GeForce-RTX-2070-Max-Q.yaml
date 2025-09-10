@@ -1,6 +1,6 @@
 name: GeForce-RTX-2070-Max-Q
 humanName: GeForce RTX 2070 Max-Q
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

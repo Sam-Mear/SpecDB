@@ -1,6 +1,6 @@
 name: Radeon-Graphics-384SP
 humanName: Radeon Graphics 384SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

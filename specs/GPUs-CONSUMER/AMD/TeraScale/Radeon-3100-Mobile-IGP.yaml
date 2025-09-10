@@ -1,6 +1,6 @@
 name: Radeon-3100-Mobile-IGP
 humanName: Radeon 3100 Mobile IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

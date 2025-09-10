@@ -1,6 +1,6 @@
 name: Tesla-S1070
 humanName: Tesla S1070
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

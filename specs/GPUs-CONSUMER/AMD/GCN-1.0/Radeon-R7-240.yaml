@@ -1,6 +1,6 @@
 name: Radeon-R7-240
 humanName: Radeon R7 240
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

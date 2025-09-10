@@ -1,6 +1,6 @@
 name: Radeon-Graphics-512SP-Mobile
 humanName: Radeon Graphics 512SP Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

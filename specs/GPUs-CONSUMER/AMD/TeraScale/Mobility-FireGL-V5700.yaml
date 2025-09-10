@@ -1,6 +1,6 @@
 name: Mobility-FireGL-V5700
 humanName: Mobility FireGL V5700
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

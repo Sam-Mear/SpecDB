@@ -1,6 +1,6 @@
 name: GeForce-Go-7950-GTX
 humanName: GeForce Go 7950 GTX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

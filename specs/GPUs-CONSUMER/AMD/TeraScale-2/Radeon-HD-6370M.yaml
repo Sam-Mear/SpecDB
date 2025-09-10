@@ -1,6 +1,6 @@
 name: Radeon-HD-6370M
 humanName: Radeon HD 6370M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

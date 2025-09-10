@@ -1,6 +1,6 @@
 name: Radeon-HD-3750
 humanName: Radeon HD 3750
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

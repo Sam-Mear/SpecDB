@@ -1,6 +1,6 @@
 name: Radeon-R9-290X
 humanName: Radeon R9 290X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

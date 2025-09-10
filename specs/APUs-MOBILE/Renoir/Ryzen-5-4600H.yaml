@@ -1,6 +1,6 @@
 name: Ryzen-5-4600H
 humanName: Ryzen 5 4600H
-isPart: true
+
 type: APU
 inherits:
   - GCN 5.1

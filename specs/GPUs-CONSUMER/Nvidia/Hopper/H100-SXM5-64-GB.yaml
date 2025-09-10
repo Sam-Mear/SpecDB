@@ -1,6 +1,6 @@
 name: H100-SXM5-64-GB
 humanName: H100 SXM5 64 GB
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

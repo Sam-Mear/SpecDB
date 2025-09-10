@@ -1,6 +1,6 @@
 name: Tesla-K20c
 humanName: Tesla K20c
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

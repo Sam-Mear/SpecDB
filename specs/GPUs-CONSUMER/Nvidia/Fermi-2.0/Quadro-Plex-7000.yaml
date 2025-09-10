@@ -1,6 +1,6 @@
 name: Quadro-Plex-7000
 humanName: Quadro Plex 7000
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-HD-7450M
 humanName: Radeon HD 7450M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

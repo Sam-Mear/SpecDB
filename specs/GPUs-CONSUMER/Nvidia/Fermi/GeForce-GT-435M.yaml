@@ -1,6 +1,6 @@
 name: GeForce-GT-435M
 humanName: GeForce GT 435M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-RTX-3060-Ti
 humanName: GeForce RTX 3060 Ti
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

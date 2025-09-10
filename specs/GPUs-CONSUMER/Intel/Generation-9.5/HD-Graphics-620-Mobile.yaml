@@ -1,6 +1,6 @@
 name: HD-Graphics-620-Mobile
 humanName: HD Graphics 620 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

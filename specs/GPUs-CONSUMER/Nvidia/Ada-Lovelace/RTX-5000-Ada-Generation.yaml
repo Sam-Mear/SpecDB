@@ -1,6 +1,6 @@
 name: RTX-5000-Ada-Generation
 humanName: RTX 5000 Ada Generation
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

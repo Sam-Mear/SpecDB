@@ -1,6 +1,6 @@
 name: Radeon-Vega-Frontier-Edition
 humanName: Radeon Vega Frontier Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

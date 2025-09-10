@@ -1,6 +1,6 @@
 name: GeForce-GTX-970
 humanName: GeForce GTX 970
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

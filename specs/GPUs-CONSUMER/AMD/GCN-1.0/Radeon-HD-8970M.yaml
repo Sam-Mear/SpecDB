@@ -1,6 +1,6 @@
 name: Radeon-HD-8970M
 humanName: Radeon HD 8970M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

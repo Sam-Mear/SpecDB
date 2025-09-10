@@ -1,6 +1,6 @@
 name: Radeon-HD-6830M
 humanName: Radeon HD 6830M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

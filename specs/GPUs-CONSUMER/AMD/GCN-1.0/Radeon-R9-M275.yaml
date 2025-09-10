@@ -1,6 +1,6 @@
 name: Radeon-R9-M275
 humanName: Radeon R9 M275
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

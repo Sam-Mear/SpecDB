@@ -1,6 +1,6 @@
 name: GeForce-6200-TurboCache
 humanName: GeForce 6200 TurboCache
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

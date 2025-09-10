@@ -1,6 +1,6 @@
 name: GeForce-RTX-4050-Max-Q
 humanName: GeForce RTX 4050 Max-Q
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

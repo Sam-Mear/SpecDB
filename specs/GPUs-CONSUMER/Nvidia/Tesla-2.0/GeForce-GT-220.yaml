@@ -1,6 +1,6 @@
 name: GeForce-GT-220
 humanName: GeForce GT 220
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-RX-Vega-56-Mobile
 humanName: Radeon RX Vega 56 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

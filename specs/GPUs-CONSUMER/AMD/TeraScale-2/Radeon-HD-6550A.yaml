@@ -1,6 +1,6 @@
 name: Radeon-HD-6550A
 humanName: Radeon HD 6550A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

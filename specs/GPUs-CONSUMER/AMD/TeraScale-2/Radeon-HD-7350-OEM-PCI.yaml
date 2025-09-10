@@ -1,6 +1,6 @@
 name: Radeon-HD-7350-OEM-PCI
 humanName: Radeon HD 7350 OEM PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

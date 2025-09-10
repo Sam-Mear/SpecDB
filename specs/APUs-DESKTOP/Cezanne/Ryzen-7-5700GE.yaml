@@ -1,6 +1,6 @@
 name: Ryzen-7-5700GE
 humanName: Ryzen 7 5700GE
-isPart: true
+
 type: CPU
 inherits:
 - GCN 5.1

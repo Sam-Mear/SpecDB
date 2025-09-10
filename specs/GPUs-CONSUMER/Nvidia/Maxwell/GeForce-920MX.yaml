@@ -1,6 +1,6 @@
 name: GeForce-920MX
 humanName: GeForce 920MX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

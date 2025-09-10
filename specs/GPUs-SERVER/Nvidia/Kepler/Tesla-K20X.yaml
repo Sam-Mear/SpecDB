@@ -1,6 +1,6 @@
 name: Tesla-K20X
 humanName: Tesla K20X
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

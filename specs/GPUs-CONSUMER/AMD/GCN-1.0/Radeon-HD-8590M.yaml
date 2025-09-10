@@ -1,6 +1,6 @@
 name: Radeon-HD-8590M
 humanName: Radeon HD 8590M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

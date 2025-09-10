@@ -1,6 +1,6 @@
 name: Radeon-R9-M470
 humanName: Radeon R9 M470
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

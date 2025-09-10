@@ -1,6 +1,6 @@
 name: GeForce-Go-6250
 humanName: GeForce Go 6250
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

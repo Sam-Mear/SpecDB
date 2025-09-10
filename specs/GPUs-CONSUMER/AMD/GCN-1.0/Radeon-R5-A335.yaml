@@ -1,6 +1,6 @@
 name: Radeon-R5-A335
 humanName: Radeon R5 A335
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

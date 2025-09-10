@@ -1,6 +1,6 @@
 name: Quadro-K620
 humanName: Quadro K620
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-560v
 humanName: Mobility Radeon HD 560v
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

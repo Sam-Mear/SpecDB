@@ -1,6 +1,6 @@
 name: GeForce-7600-GT
 humanName: GeForce 7600 GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

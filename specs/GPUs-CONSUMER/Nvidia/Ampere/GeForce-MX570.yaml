@@ -1,6 +1,6 @@
 name: GeForce-MX570
 humanName: GeForce MX570
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

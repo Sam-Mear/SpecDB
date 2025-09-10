@@ -1,6 +1,6 @@
 name: Radeon-R7-360-896SP
 humanName: Radeon R7 360 896SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

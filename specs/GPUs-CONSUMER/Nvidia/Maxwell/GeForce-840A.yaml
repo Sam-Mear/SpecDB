@@ -1,6 +1,6 @@
 name: GeForce-840A
 humanName: GeForce 840A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

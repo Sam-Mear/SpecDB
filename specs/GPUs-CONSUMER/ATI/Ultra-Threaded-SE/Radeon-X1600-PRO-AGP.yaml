@@ -1,6 +1,6 @@
 name: Radeon-X1600-PRO-AGP
 humanName: Radeon X1600 PRO AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

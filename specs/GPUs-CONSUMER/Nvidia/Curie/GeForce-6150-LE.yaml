@@ -1,6 +1,6 @@
 name: GeForce-6150-LE
 humanName: GeForce 6150 LE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

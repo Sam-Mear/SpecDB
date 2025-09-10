@@ -1,6 +1,6 @@
 name: Quadro-FX-4500-SDI
 humanName: Quadro FX 4500 SDI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

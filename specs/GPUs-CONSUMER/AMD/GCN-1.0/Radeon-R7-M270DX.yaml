@@ -1,6 +1,6 @@
 name: Radeon-R7-M270DX
 humanName: Radeon R7 M270DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

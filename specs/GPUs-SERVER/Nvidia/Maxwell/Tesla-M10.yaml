@@ -1,6 +1,6 @@
 name: Tesla-M10
 humanName: Tesla M10
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

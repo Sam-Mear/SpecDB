@@ -1,6 +1,6 @@
 name: Radeon-HD-4200-IGP
 humanName: Radeon HD 4200 IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

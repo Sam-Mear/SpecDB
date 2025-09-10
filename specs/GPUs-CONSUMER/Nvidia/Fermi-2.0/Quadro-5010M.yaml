@@ -1,6 +1,6 @@
 name: Quadro-5010M
 humanName: Quadro 5010M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

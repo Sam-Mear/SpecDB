@@ -1,6 +1,6 @@
 name: Radeon-R8-M350DX
 humanName: Radeon R8 M350DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

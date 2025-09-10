@@ -1,6 +1,6 @@
 name: Radeon-E4690-PCIe
 humanName: Radeon E4690 PCIe
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

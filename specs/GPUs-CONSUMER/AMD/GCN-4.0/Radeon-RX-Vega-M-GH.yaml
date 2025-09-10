@@ -1,6 +1,6 @@
 name: Radeon-RX-Vega-M-GH
 humanName: Radeon RX Vega M GH
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

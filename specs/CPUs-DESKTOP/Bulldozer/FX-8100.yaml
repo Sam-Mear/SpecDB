@@ -1,6 +1,6 @@
 name: FX-8100
 humanName: FX 8100
-isPart: true
+
 type: CPU
 inherits:
   - Bulldozer 8C Base

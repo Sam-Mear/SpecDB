@@ -1,6 +1,6 @@
 name: Quadro-RTX-3000-Max-Q
 humanName: Quadro RTX 3000 Max-Q
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

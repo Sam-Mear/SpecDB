@@ -1,6 +1,6 @@
 name: GeForce-GTX-580
 humanName: GeForce GTX 580
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

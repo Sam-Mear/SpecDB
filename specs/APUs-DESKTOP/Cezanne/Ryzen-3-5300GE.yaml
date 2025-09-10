@@ -1,6 +1,6 @@
 name: Ryzen-3-5300GE
 humanName: Ryzen 3 5300GE
-isPart: true
+
 type: CPU
 inherits:
 - GCN 5.1

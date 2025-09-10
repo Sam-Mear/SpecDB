@@ -1,6 +1,6 @@
 name: GeForce-8200
 humanName: GeForce 8200
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

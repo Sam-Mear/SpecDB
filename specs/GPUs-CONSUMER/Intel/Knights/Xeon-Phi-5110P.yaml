@@ -1,6 +1,6 @@
 name: Xeon-Phi-5110P
 humanName: Xeon Phi 5110P
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

@@ -1,6 +1,6 @@
 name: Radeon-R5-M430
 humanName: Radeon R5 M430
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

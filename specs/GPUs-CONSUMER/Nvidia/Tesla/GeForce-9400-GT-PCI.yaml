@@ -1,6 +1,6 @@
 name: GeForce-9400-GT-PCI
 humanName: GeForce 9400 GT PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

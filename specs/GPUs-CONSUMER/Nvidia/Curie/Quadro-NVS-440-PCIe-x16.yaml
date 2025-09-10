@@ -1,6 +1,6 @@
 name: Quadro-NVS-440-PCIe-x16
 humanName: Quadro NVS 440 PCIe x16
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

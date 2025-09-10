@@ -1,6 +1,6 @@
 name: TITAN-V
 humanName: TITAN V
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

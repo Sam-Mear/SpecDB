@@ -1,6 +1,6 @@
 name: Radeon-HD-7950-Boost
 humanName: Radeon HD 7950 Boost
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

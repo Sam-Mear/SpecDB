@@ -1,6 +1,6 @@
 name: GeForce-GTX-1650-GDDR6
 humanName: GeForce GTX 1650 GDDR6
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

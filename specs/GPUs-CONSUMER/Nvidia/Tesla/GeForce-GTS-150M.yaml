@@ -1,6 +1,6 @@
 name: GeForce-GTS-150M
 humanName: GeForce GTS 150M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

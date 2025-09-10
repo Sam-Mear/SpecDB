@@ -1,6 +1,6 @@
 name: Radeon-HD-8280E
 humanName: Radeon HD 8280E
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

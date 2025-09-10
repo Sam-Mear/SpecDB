@@ -1,6 +1,6 @@
 name: GeForce-RTX-2070
 humanName: GeForce RTX 2070
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

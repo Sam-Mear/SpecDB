@@ -1,6 +1,6 @@
 name: GeForce-GT-330-OEM
 humanName: GeForce GT 330 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

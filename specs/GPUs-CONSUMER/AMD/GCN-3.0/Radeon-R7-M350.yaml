@@ -1,6 +1,6 @@
 name: Radeon-R7-M350
 humanName: Radeon R7 M350
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

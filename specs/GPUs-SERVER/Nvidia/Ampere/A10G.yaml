@@ -1,6 +1,6 @@
 name: A10G
 humanName: A10G
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

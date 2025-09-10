@@ -1,6 +1,6 @@
 name: Quadro-K2000D
 humanName: Quadro K2000D
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

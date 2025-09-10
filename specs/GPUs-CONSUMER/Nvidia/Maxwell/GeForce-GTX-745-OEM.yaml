@@ -1,6 +1,6 @@
 name: GeForce-GTX-745-OEM
 humanName: GeForce GTX 745 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

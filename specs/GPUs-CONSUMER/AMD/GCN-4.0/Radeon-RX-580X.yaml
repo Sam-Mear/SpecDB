@@ -1,6 +1,6 @@
 name: Radeon-RX-580X
 humanName: Radeon RX 580X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

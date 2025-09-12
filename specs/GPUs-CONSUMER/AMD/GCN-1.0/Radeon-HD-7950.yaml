@@ -2,15 +2,9 @@ name: Radeon-HD-7950
 humanName: Radeon HD 7950
 isPart: true
 type: Graphics Card
+inherits:
+  - GCN-1
 data:
-  Manufacturer: AMD
-  Vendor: AMD
-  Architecture: GCN 1.0
-  Lithography: 28 nm
-  DirectX Support: '11.1'
-  Vulkan Support: '1.2.170'
-  OpenGL Support: '4.6'
-  OpenCL Support: '2.1 (1.2)'
   Release Date: '2012-01-31'
   GPU Base Frequency: 800 MHz
   VRAM Frequency: 1250 MHz

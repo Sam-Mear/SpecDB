@@ -2,16 +2,10 @@ name: FirePro-D500
 humanName: FirePro D500
 isPart: true
 type: Graphics Card
+inherits:
+  - GCN-1
 data:
   Market: Workstation
-  Manufacturer: AMD
-  Vendor: AMD
-  Architecture: GCN 1.0
-  Lithography: 28 nm
-  DirectX Support: '11.1'
-  Vulkan Support: '1.2.170'
-  OpenGL Support: '4.6'
-  OpenCL Support: '2.1 (1.2)'
   Release Date: '2014-01-18'
   GPU Base Frequency: 725 MHz
   VRAM Frequency: 1270 MHz

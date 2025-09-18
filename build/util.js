@@ -340,6 +340,11 @@ const util = {
 				),
 			),
 		)(yamlObject);
+	},
+
+	isPart: part => {
+		const specTypes = ['CPU', 'Graphics Card', 'APU'];
+		return specTypes.includes(part.type);
 	}
 };
 module.exports = util;

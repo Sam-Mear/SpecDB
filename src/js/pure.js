@@ -1,6 +1,10 @@
 // pure easy to test stuff goes here for some reason
 
-const specTypes = ['CPU', 'Graphics Card', 'APU'];
+module.experts.isPart = (part) => {
+	const specTypes = ['CPU', 'Graphics Card', 'APU'];
+	return specTypes.includes(part.type);
+}
+
 module.exports.genSubtext = (data, passedSpecData) => {
 	const innerData = data.data;
 	
@@ -39,7 +43,7 @@ module.exports.genSubtext = (data, passedSpecData) => {
 			if (!part) {
 				return;
 			}
-			if (specTypes.includes(part.type)) {
+			if (module.exports.isPart(part)) {
 				t++;
 			} else {
 				part.sections.forEach(sec =>

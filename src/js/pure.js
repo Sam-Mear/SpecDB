@@ -1,6 +1,6 @@
 // pure easy to test stuff goes here for some reason
 
-module.experts.isPart = (part) => {
+module.exports.isPart = (part) => {
 	const specTypes = ['CPU', 'Graphics Card', 'APU'];
 	return specTypes.includes(part.type);
 }

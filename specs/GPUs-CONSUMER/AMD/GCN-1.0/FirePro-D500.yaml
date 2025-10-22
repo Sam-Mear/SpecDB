@@ -27,3 +27,4 @@ data:
     - 6x mini-DisplayPort 1.2
     - 1x SDI
   Length: 279 mm
+  HLSL Shader Model: '6.5 (5.1)'

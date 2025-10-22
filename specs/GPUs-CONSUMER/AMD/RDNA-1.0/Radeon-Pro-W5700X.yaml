@@ -31,3 +31,4 @@ data:
   Slot Width: Quad-slot
   Outputs: 1x HDMI 2.0b4x Thunderbolt
   Length: 305 mm
+  HLSL Shader Model: '6.7'

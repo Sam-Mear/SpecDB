@@ -24,3 +24,4 @@ data:
   Outputs: 
     - 1x DVI
     - 1x HDMI 1.3a1x VGA
+  HLSL Shader Model: '5.0'

@@ -33,3 +33,4 @@ data:
   Width: 101 mm
   Height: 28 mm
   Market: Console
+  HLSL Shader Model: '6.0'

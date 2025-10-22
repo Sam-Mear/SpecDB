@@ -35,3 +35,4 @@ data:
   Length: 145 mm
   Market:
     - Consumer
+  HLSL Shader Model: '5.1'

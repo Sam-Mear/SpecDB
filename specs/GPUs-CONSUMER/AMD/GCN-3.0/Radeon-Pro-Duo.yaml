@@ -30,3 +30,4 @@ data:
   Width: 111 mm
   Market:
     - Consumer
+  HLSL Shader Model: '6.5'

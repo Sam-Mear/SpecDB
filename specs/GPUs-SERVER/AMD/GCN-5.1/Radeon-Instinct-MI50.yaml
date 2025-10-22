@@ -33,3 +33,4 @@ data:
   Outputs: 1x mini-DisplayPort 1.4a
   Power Connectors: 2x 8-pin
   Length: 267 mm
+  HLSL Shader Model: '6.7'

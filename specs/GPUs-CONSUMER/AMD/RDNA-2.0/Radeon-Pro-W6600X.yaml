@@ -31,3 +31,4 @@ data:
   Slot Width: Dual-slot
   Outputs: No outputs
   Ray Tracing Cores: 32
+  HLSL Shader Model: '6.7'

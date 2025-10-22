@@ -28,3 +28,4 @@ data:
   TDP: 35 W
   FP32 Compute: 432.0 GFLOPS
   Outputs: Portable Device Dependent
+  HLSL Shader Model: '4.1'

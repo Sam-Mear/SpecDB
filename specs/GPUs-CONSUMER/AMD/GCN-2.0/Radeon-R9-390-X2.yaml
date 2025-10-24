@@ -28,3 +28,4 @@ data:
   Power Connectors: 4x 8-pin
   Market:
     - Consumer
+  HLSL Shader Model: '6.5'

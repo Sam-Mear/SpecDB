@@ -56,3 +56,4 @@ data:
   Slot Width: Single-slot
   Outputs: 3x mini-DisplayPort 1.4a
   Power Connectors: None
+  HLSL Shader Model: '6.7'

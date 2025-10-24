@@ -35,3 +35,4 @@ data:
   Pixel Shaders: 16
   Market:
     - Workstation
+  HLSL Shader Model: '3.0'

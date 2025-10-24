@@ -32,3 +32,4 @@ data:
   Slot Width: SXM Module
   Outputs: No outputs
   Power Connectors: None
+  HLSL Shader Model: '6.0'

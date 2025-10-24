@@ -23,3 +23,4 @@ data:
   FP32 Compute: 947.2 GFLOPS
   FP64 Compute: 59.20 GFLOPS (1:16)
   Outputs: Portable Device Dependent
+  HLSL Shader Model: '6.5 (5.1)'

@@ -32,3 +32,4 @@ data:
   Length: 267 mm
   Market:
     - Workstation
+  HLSL Shader Model: '6.6'

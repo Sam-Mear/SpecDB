@@ -32,3 +32,4 @@ data:
   FP64 Compute: 88.20 GFLOPS (1:32)
   Outputs: Portable Device Dependent
   Power Connectors: None
+  HLSL Shader Model: '6.7'

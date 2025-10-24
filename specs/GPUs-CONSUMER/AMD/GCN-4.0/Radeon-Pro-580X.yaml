@@ -31,3 +31,4 @@ data:
   FP64 Compute: 345.6 GFLOPS (1:16)
   Slot Width: IGP
   Outputs: 2x HDMI 2.0b
+  HLSL Shader Model: '6.7'

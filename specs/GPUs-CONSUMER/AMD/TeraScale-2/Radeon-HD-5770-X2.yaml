@@ -25,3 +25,4 @@ data:
     - 1x HDMI 1.3a1x DisplayPort 1.1
   Market:
     - Consumer
+  HLSL Shader Model: '5.0'

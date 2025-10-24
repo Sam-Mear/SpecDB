@@ -27,3 +27,4 @@ data:
     - 1x DVI
     - 1x DisplayPort 1.2
   Power Connectors: None
+  HLSL Shader Model: '6.5 (5.1)'

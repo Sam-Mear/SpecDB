@@ -24,3 +24,4 @@ data:
   FP64 Compute: 205.3 GFLOPS (1:16)
   Slot Width: IGP
   Outputs: Portable Device Dependent
+  HLSL Shader Model: '6.0'

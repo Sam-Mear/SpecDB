@@ -31,3 +31,4 @@ data:
   Height: 39 mm
   Market:
     - Consumer
+  HLSL Shader Model: '6.5'

@@ -26,3 +26,4 @@ data:
     - 1x DisplayPort 1.1
   Power Connectors: None
   Length: 168 mm
+  HLSL Shader Model: '5.0'

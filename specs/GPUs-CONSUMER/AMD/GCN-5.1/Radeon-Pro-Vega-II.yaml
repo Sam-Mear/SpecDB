@@ -25,3 +25,4 @@ data:
   FP64 Compute: 880.6 GFLOPS (1:16)
   Slot Width: Quad-slot
   Outputs: 1x HDMI 2.0b4x Thunderbolt
+  HLSL Shader Model: '6.7'

@@ -24,3 +24,4 @@ data:
   Slot Width: MXM Module
   Outputs: Portable Device Dependent
   Power Connectors: None
+  HLSL Shader Model: '6.5 (5.1)'

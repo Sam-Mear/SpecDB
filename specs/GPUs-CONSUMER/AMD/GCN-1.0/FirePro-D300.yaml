@@ -25,3 +25,4 @@ data:
   Slot Width: Single-slot
   Outputs: 4x DisplayPort 1.2
   Length: 242 mm
+  HLSL Shader Model: '6.5 (5.1)'

@@ -24,3 +24,4 @@ data:
   Outputs: Motherboard Dependent
   Market:
     - Consumer
+  HLSL Shader Model: '6.5'

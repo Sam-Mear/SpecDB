@@ -84,6 +84,6 @@ const fixedSitemapUrls = [
 	'https://specdb.info/',
 	'https://specdb.info/about',
 ];
-const dynamicSitemapUrls = Object.keys(_.pickBy(toReturn, v => pure.isPart(v))).map(c => `https://specdb.info/${c}`);
+const dynamicSitemapUrls = Object.keys(_.pickBy(toReturn, pure.isPart)).map(c => `https://specdb.info/${c}`);
 const allSitemapUrls = fixedSitemapUrls.concat(dynamicSitemapUrls);
 fs.writeFileSync(sitemapFile, allSitemapUrls.join('\n'), 'utf8');

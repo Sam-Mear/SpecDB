@@ -1,6 +1,6 @@
 name: Radeon-R7-260X
 humanName: Radeon R7 260X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

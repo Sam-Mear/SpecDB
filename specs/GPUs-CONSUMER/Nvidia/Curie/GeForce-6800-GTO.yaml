@@ -1,6 +1,6 @@
 name: GeForce-6800-GTO
 humanName: GeForce 6800 GTO
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

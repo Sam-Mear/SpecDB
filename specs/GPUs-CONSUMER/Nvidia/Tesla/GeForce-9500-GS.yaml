@@ -1,6 +1,6 @@
 name: GeForce-9500-GS
 humanName: GeForce 9500 GS
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

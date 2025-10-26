@@ -1,6 +1,6 @@
 name: Radeon-E8860
 humanName: Radeon E8860
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

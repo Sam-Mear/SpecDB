@@ -1,6 +1,6 @@
 name: Radeon-R9-M360
 humanName: Radeon R9 M360
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

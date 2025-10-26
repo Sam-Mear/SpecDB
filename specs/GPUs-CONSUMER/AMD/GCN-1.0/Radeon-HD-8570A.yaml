@@ -1,6 +1,6 @@
 name: Radeon-HD-8570A
 humanName: Radeon HD 8570A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

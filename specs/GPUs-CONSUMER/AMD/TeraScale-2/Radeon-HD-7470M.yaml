@@ -1,6 +1,6 @@
 name: Radeon-HD-7470M
 humanName: Radeon HD 7470M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

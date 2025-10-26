@@ -1,6 +1,6 @@
 name: 1900X
 humanName: 1900X
-isPart: true
+
 type: CPU
 inherits:
   - Ryzen R9 Base

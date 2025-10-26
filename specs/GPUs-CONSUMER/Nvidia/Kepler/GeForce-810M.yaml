@@ -1,6 +1,6 @@
 name: GeForce-810M
 humanName: GeForce 810M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GTX-675MX
 humanName: GeForce GTX 675MX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

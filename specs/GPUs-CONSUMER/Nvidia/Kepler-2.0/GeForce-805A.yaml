@@ -1,6 +1,6 @@
 name: GeForce-805A
 humanName: GeForce 805A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

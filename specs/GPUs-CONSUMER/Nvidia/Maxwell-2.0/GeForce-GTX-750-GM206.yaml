@@ -1,6 +1,6 @@
 name: GeForce-GTX-750-GM206
 humanName: GeForce GTX 750 GM206
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

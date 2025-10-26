@@ -1,6 +1,6 @@
 name: Radeon-HD-8670A
 humanName: Radeon HD 8670A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

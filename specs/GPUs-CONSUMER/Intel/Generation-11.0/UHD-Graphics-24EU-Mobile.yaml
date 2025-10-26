@@ -1,6 +1,6 @@
 name: UHD-Graphics-24EU-Mobile
 humanName: UHD Graphics 24EU Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

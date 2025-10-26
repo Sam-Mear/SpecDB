@@ -1,6 +1,6 @@
 name: Radeon-R7-Graphics
 humanName: Radeon R7 Graphics
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-HD-7950
 humanName: Radeon HD 7950
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

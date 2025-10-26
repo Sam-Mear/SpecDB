@@ -1,6 +1,6 @@
 name: GeForce-940MX
 humanName: GeForce 940MX
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

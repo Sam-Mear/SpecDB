@@ -1,6 +1,6 @@
 name: FX-6100
 humanName: FX 6100
-isPart: true
+
 type: CPU
 inherits:
   - Bulldozer 6C Base

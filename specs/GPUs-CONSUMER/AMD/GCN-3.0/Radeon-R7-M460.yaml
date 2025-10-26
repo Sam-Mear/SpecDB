@@ -1,6 +1,6 @@
 name: Radeon-R7-M460
 humanName: Radeon R7 M460
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

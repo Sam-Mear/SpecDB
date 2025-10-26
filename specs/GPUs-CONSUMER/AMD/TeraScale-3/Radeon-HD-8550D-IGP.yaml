@@ -1,6 +1,6 @@
 name: Radeon-HD-8550D-IGP
 humanName: Radeon HD 8550D IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

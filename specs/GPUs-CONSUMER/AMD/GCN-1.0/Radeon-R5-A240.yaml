@@ -1,6 +1,6 @@
 name: Radeon-R5-A240
 humanName: Radeon R5 A240
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

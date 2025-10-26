@@ -1,6 +1,6 @@
 name: Radeon-R7-350-Fake-Card
 humanName: Radeon R7 350 Fake Card
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-8400-GS-PCI
 humanName: GeForce 8400 GS PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

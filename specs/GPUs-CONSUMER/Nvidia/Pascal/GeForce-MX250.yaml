@@ -1,6 +1,6 @@
 name: GeForce-MX250
 humanName: GeForce MX250
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

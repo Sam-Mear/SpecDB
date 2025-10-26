@@ -1,6 +1,6 @@
 name: Radeon-R7-M260DX
 humanName: Radeon R7 M260DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

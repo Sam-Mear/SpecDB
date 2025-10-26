@@ -1,6 +1,6 @@
 name: CMP-90HX
 humanName: CMP 90HX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

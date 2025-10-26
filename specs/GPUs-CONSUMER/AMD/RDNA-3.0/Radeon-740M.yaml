@@ -1,6 +1,6 @@
 name: Radeon-740M
 humanName: Radeon 740M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

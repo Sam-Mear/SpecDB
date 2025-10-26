@@ -1,6 +1,6 @@
 name: Radeon-R8-M535DX
 humanName: Radeon R8 M535DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-GTX-1080-Max-Q
 humanName: GeForce GTX 1080 Max-Q
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

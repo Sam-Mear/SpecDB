@@ -1,6 +1,6 @@
 name: H800-PCIe-80-GB
 humanName: H800 PCIe 80 GB
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GT-320M
 humanName: GeForce GT 320M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

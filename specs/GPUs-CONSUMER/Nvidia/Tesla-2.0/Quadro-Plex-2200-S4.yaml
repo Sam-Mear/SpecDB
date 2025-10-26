@@ -1,6 +1,6 @@
 name: Quadro-Plex-2200-S4
 humanName: Quadro Plex 2200 S4
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

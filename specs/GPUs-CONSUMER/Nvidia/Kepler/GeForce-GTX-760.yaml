@@ -1,6 +1,6 @@
 name: GeForce-GTX-760
 humanName: GeForce GTX 760
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

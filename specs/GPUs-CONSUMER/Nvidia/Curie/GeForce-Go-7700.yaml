@@ -1,6 +1,6 @@
 name: GeForce-Go-7700
 humanName: GeForce Go 7700
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

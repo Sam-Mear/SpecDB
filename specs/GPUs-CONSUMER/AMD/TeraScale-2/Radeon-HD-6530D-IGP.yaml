@@ -1,6 +1,6 @@
 name: Radeon-HD-6530D-IGP
 humanName: Radeon HD 6530D IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

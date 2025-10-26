@@ -1,6 +1,6 @@
 name: Radeon-HD-4770
 humanName: Radeon HD 4770
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-GTX-1080-Mobile
 humanName: GeForce GTX 1080 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

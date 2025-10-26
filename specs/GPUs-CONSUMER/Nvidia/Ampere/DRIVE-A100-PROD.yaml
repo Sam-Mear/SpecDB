@@ -1,6 +1,6 @@
 name: DRIVE-A100-PROD
 humanName: DRIVE A100 PROD
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

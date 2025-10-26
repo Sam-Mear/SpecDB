@@ -1,6 +1,6 @@
 name: FX-4130
 humanName: FX 4130
-isPart: true
+
 type: CPU
 inherits:
   - Bulldozer 4C Base

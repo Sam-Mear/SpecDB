@@ -1,6 +1,6 @@
 name: Ryzen-9-4900HS
 humanName: Ryzen 9 4900HS
-isPart: true
+
 type: APU
 inherits:
   - GCN 5.1

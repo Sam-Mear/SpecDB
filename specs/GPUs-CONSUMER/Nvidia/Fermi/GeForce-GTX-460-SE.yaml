@@ -1,6 +1,6 @@
 name: GeForce-GTX-460-SE
 humanName: GeForce GTX 460 SE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

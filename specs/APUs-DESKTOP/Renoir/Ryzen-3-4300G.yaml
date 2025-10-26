@@ -1,6 +1,6 @@
 name: Ryzen-3-4300G
 humanName: Ryzen 3 4300G
-isPart: true
+
 type: CPU
 inherits:
 - GCN 5.1

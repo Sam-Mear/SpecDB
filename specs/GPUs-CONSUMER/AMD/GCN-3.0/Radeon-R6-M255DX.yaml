@@ -1,6 +1,6 @@
 name: Radeon-R6-M255DX
 humanName: Radeon R6 M255DX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: HD-Graphics-5500-Mobile
 humanName: HD Graphics 5500 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

@@ -1,6 +1,6 @@
 name: Radeon-Instinct-MI300X
 humanName: Radeon Instinct MI300X
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

@@ -1,6 +1,6 @@
 name: Radeon-535-Mobile
 humanName: Radeon 535 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

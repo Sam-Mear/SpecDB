@@ -1,6 +1,6 @@
 name: Playstation-4-Pro-GPU
 humanName: Playstation 4 Pro GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

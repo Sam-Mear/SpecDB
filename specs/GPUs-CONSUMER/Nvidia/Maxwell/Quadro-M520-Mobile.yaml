@@ -1,6 +1,6 @@
 name: Quadro-M520-Mobile
 humanName: Quadro M520 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

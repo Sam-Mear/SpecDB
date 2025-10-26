@@ -1,6 +1,6 @@
 name: RTX-A4500
 humanName: RTX A4500
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

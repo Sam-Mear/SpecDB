@@ -1,6 +1,6 @@
 name: GeForce-Go-7800
 humanName: GeForce Go 7800
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Xbox-360-E-GPU
 humanName: Xbox 360 E GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

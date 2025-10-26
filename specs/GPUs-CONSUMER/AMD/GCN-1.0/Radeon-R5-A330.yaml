@@ -1,6 +1,6 @@
 name: Radeon-R5-A330
 humanName: Radeon R5 A330
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

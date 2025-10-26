@@ -1,6 +1,6 @@
 name: GeForce-GTX-465
 humanName: GeForce GTX 465
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

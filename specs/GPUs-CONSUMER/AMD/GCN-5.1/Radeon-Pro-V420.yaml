@@ -1,6 +1,6 @@
 name: Radeon-Pro-V420
 humanName: Radeon Pro V420
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

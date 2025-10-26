@@ -1,6 +1,6 @@
 name: X4-835
 humanName: X4 835
-isPart: true
+
 type: CPU
 inherits:
   - Carrizo-Base

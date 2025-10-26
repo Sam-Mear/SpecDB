@@ -1,6 +1,6 @@
 name: A10-PCIe
 humanName: A10 PCIe
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

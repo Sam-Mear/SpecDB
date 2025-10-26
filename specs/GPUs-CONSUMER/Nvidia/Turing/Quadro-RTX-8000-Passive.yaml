@@ -1,6 +1,6 @@
 name: Quadro-RTX-8000-Passive
 humanName: Quadro RTX 8000 Passive
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

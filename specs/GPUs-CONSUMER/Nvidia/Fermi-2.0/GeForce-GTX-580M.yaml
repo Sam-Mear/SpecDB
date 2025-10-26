@@ -1,6 +1,6 @@
 name: GeForce-GTX-580M
 humanName: GeForce GTX 580M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

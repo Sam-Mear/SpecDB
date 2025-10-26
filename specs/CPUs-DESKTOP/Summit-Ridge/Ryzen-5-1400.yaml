@@ -1,6 +1,6 @@
 name: Ryzen-5-1400
 humanName: Ryzen 5 1400
-isPart: true
+
 type: CPU
 inherits:
   - Ryzen R5 Base

@@ -1,6 +1,6 @@
 name: Radeon-E8950
 humanName: Radeon E8950
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

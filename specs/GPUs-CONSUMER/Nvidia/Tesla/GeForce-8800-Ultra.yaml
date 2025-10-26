@@ -1,6 +1,6 @@
 name: GeForce-8800-Ultra
 humanName: GeForce 8800 Ultra
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

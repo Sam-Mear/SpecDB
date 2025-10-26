@@ -1,6 +1,6 @@
 name: Radeon-Pro-Vega-20
 humanName: Radeon Pro Vega 20
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

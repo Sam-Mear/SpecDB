@@ -1,6 +1,6 @@
 name: Tesla-T40-24-GB
 humanName: Tesla T40 24 GB
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

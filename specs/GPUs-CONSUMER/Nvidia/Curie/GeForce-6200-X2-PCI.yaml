@@ -1,6 +1,6 @@
 name: GeForce-6200-X2-PCI
 humanName: GeForce 6200 X2 PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

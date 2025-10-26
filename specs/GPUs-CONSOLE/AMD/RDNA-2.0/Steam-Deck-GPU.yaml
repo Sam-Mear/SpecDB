@@ -1,6 +1,6 @@
 name: Steam-Deck-GPU
 humanName: Steam Deck GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

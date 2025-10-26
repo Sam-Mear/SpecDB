@@ -1,6 +1,6 @@
 name: GeForce-GT-550M
 humanName: GeForce GT 550M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

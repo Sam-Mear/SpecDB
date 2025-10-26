@@ -1,6 +1,6 @@
 name: Radeon-HD-6350M
 humanName: Radeon HD 6350M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

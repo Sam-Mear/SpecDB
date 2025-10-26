@@ -1,6 +1,6 @@
 name: Radeon-HD-6750M-Mac-Edition
 humanName: Radeon HD 6750M Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

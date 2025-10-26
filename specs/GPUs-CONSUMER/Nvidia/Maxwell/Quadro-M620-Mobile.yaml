@@ -1,6 +1,6 @@
 name: Quadro-M620-Mobile
 humanName: Quadro M620 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

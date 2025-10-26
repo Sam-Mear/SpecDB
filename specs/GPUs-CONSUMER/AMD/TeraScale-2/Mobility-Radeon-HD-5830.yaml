@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-5830
 humanName: Mobility Radeon HD 5830
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

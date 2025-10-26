@@ -1,6 +1,6 @@
 name: GeForce-GTX-1650-TU116
 humanName: GeForce GTX 1650 TU116
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Decoding:

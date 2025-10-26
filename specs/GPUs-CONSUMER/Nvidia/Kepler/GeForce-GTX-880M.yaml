@@ -1,6 +1,6 @@
 name: GeForce-GTX-880M
 humanName: GeForce GTX 880M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

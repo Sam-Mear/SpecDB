@@ -1,6 +1,6 @@
 name: Radeon-HD-7850M
 humanName: Radeon HD 7850M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

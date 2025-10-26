@@ -1,6 +1,6 @@
 name: X4-845
 humanName: X4 845
-isPart: true
+
 type: CPU
 inherits:
   - Carrizo-Base

@@ -1,6 +1,6 @@
 name: GeForce-GT-705-OEM
 humanName: GeForce GT 705 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

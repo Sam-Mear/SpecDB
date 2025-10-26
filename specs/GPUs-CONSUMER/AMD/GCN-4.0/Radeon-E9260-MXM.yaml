@@ -1,6 +1,6 @@
 name: Radeon-E9260-MXM
 humanName: Radeon E9260 MXM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

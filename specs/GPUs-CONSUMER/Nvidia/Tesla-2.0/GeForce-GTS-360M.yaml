@@ -1,6 +1,6 @@
 name: GeForce-GTS-360M
 humanName: GeForce GTS 360M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

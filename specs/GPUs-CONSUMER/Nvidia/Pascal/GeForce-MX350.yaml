@@ -1,6 +1,6 @@
 name: GeForce-MX350
 humanName: GeForce MX350
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

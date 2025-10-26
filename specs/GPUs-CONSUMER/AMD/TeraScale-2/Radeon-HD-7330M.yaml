@@ -1,6 +1,6 @@
 name: Radeon-HD-7330M
 humanName: Radeon HD 7330M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

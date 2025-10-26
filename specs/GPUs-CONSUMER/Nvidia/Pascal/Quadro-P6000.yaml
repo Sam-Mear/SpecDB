@@ -1,6 +1,6 @@
 name: Quadro-P6000
 humanName: Quadro P6000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

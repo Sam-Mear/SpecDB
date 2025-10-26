@@ -1,6 +1,6 @@
 name: Ryzen-5-4500U
 humanName: Ryzen 5 4500U
-isPart: true
+
 type: APU
 inherits:
   - GCN 5.1

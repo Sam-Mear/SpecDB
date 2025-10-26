@@ -1,6 +1,6 @@
 name: Radeon-HD-8670-OEM
 humanName: Radeon HD 8670 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Quadro-NVS-285
 humanName: Quadro NVS 285
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-HD-8210-IGP
 humanName: Radeon HD 8210 IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

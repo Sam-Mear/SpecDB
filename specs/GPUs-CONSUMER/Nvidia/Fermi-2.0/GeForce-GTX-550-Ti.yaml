@@ -1,6 +1,6 @@
 name: GeForce-GTX-550-Ti
 humanName: GeForce GTX 550 Ti
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

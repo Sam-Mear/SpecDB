@@ -1,6 +1,6 @@
 name: Radeon-HD-2900-XT
 humanName: Radeon HD 2900 XT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

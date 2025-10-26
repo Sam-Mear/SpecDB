@@ -1,6 +1,6 @@
 name: GeForce-9300M-G
 humanName: GeForce 9300M G
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

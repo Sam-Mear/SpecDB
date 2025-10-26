@@ -1,6 +1,6 @@
 name: Radeon-HD-8450-OEM
 humanName: Radeon HD 8450 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

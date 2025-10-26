@@ -1,6 +1,6 @@
 name: GeForce-8400-SE
 humanName: GeForce 8400 SE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

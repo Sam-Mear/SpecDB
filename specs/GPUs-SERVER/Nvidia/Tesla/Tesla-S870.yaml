@@ -1,6 +1,6 @@
 name: Tesla-S870
 humanName: Tesla S870
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

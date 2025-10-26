@@ -1,6 +1,6 @@
 name: Radeon-HD-8740-OEM
 humanName: Radeon HD 8740 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

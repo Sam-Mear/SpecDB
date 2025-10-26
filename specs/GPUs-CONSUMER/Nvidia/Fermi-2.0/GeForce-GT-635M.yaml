@@ -1,6 +1,6 @@
 name: GeForce-GT-635M
 humanName: GeForce GT 635M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

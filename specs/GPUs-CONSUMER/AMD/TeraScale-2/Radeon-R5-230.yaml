@@ -1,6 +1,6 @@
 name: Radeon-R5-230
 humanName: Radeon R5 230
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

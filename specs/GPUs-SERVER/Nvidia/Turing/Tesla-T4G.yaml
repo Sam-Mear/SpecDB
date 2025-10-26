@@ -1,6 +1,6 @@
 name: Tesla-T4G
 humanName: Tesla T4G
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

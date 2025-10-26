@@ -1,6 +1,6 @@
 name: GeForce-GT-335M
 humanName: GeForce GT 335M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

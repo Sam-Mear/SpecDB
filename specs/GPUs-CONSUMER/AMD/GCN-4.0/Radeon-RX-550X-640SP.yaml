@@ -1,6 +1,6 @@
 name: Radeon-RX-550X-640SP
 humanName: Radeon RX 550X 640SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

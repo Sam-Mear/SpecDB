@@ -1,6 +1,6 @@
 name: Radeon-X1600
 humanName: Radeon X1600
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

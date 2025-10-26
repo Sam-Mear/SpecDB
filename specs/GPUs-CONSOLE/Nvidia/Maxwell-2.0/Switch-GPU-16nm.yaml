@@ -1,6 +1,6 @@
 name: Switch-GPU-16nm
 humanName: Switch GPU 16nm
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

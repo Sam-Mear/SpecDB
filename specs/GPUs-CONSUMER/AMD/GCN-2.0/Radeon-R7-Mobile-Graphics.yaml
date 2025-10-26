@@ -1,6 +1,6 @@
 name: Radeon-R7-Mobile-Graphics
 humanName: Radeon R7 Mobile Graphics
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

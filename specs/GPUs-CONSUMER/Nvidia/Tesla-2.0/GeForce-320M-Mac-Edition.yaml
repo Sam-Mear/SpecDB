@@ -1,6 +1,6 @@
 name: GeForce-320M-Mac-Edition
 humanName: GeForce 320M Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

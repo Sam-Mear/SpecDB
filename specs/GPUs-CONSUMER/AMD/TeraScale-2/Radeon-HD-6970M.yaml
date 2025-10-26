@@ -1,6 +1,6 @@
 name: Radeon-HD-6970M
 humanName: Radeon HD 6970M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Quadro-FX-3500M
 humanName: Quadro FX 3500M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

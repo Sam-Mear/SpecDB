@@ -1,6 +1,6 @@
 name: Tesla-M2070-Q
 humanName: Tesla M2070-Q
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

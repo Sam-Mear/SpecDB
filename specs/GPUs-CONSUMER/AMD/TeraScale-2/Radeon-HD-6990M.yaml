@@ -1,6 +1,6 @@
 name: Radeon-HD-6990M
 humanName: Radeon HD 6990M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

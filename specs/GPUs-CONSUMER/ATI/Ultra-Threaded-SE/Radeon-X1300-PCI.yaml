@@ -1,6 +1,6 @@
 name: Radeon-X1300-PCI
 humanName: Radeon X1300 PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

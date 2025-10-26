@@ -1,6 +1,6 @@
 name: Radeon-520-OEM
 humanName: Radeon 520 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

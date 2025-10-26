@@ -1,6 +1,6 @@
 name: GeForce-GTX-680M
 humanName: GeForce GTX 680M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

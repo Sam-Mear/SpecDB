@@ -1,6 +1,6 @@
 name: GeForce-9650M-GT
 humanName: GeForce 9650M GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

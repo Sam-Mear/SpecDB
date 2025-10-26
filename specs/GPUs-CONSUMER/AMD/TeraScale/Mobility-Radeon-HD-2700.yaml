@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-2700
 humanName: Mobility Radeon HD 2700
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

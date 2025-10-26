@@ -1,6 +1,6 @@
 name: GeForce-Go-6600-TE
 humanName: GeForce Go 6600 TE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GT-130-Mac-Edition
 humanName: GeForce GT 130 Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

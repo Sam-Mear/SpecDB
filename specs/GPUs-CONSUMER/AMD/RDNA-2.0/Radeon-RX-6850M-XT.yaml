@@ -1,6 +1,6 @@
 name: Radeon-RX-6850M-XT
 humanName: Radeon RX 6850M XT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

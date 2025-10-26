@@ -1,6 +1,6 @@
 name: GeForce-GTX-1080-11Gbps
 humanName: GeForce GTX 1080 11Gbps
-isPart: true
+
 type: Graphics Card
 data:
   Market: Consumer

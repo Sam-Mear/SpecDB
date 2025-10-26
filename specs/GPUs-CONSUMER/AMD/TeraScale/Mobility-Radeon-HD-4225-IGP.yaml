@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-4225-IGP
 humanName: Mobility Radeon HD 4225 IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

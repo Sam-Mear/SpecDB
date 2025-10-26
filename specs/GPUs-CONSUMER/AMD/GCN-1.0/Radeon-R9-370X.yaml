@@ -1,6 +1,6 @@
 name: Radeon-R9-370X
 humanName: Radeon R9 370X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

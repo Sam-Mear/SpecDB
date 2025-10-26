@@ -1,6 +1,6 @@
 name: HD-Graphics-12EU
 humanName: HD Graphics 12EU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

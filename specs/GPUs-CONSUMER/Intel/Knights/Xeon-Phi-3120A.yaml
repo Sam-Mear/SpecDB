@@ -1,6 +1,6 @@
 name: Xeon-Phi-3120A
 humanName: Xeon Phi 3120A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

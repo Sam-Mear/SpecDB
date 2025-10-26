@@ -1,6 +1,6 @@
 name: GeForce-GT-625M
 humanName: GeForce GT 625M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

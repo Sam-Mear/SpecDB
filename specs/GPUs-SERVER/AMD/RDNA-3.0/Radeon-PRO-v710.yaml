@@ -1,6 +1,6 @@
 name: Radeon-PRO-V710
 humanName: Radeon PRO V710
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

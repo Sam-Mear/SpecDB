@@ -1,6 +1,6 @@
 name: GeForce-GT-620
 humanName: GeForce GT 620
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

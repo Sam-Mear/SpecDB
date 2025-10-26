@@ -1,6 +1,6 @@
 name: Radeon-660M
 humanName: Radeon 660M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

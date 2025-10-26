@@ -1,6 +1,6 @@
 name: GeForce-GT-755M
 humanName: GeForce GT 755M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

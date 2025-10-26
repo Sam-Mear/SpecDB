@@ -1,6 +1,6 @@
 name: GeForce-GT-130-OEM
 humanName: GeForce GT 130 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

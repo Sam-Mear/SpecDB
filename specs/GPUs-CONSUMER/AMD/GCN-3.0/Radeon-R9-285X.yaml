@@ -1,6 +1,6 @@
 name: Radeon-R9-285X
 humanName: Radeon R9 285X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

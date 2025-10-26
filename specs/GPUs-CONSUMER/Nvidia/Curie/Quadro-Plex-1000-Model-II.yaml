@@ -1,6 +1,6 @@
 name: Quadro-Plex-1000-Model-II
 humanName: Quadro Plex 1000 Model II
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

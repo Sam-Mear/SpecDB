@@ -1,6 +1,6 @@
 name: L4
 humanName: L4
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

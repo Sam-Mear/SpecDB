@@ -1,6 +1,6 @@
 name: Radeon-HD-7730
 humanName: Radeon HD 7730
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

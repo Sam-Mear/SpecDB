@@ -1,6 +1,6 @@
 name: GeForce-GT-735M
 humanName: GeForce GT 735M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-R7-M360
 humanName: Radeon R7 M360
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

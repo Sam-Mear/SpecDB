@@ -1,6 +1,6 @@
 name: Radeon-R7-A265
 humanName: Radeon R7 A265
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-RX-7600M-XT
 humanName: Radeon RX 7600M XT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

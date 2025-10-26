@@ -1,6 +1,6 @@
 name: Quadro-CX
 humanName: Quadro CX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

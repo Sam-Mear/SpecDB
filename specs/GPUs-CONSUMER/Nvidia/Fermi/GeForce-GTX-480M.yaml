@@ -1,6 +1,6 @@
 name: GeForce-GTX-480M
 humanName: GeForce GTX 480M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

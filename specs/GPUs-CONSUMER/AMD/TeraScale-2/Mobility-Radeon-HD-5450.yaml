@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-5450
 humanName: Mobility Radeon HD 5450
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

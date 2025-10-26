@@ -1,6 +1,6 @@
 name: Radeon-HD-8750A
 humanName: Radeon HD 8750A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

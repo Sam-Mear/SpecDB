@@ -1,6 +1,6 @@
 name: GeForce-GT-230M
 humanName: GeForce GT 230M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

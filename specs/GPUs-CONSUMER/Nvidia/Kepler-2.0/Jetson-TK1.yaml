@@ -1,6 +1,6 @@
 name: Jetson-TK1
 humanName: Jetson TK1
-isPart: true
+
 type: Graphics Card
 data:
   Market: Embedded

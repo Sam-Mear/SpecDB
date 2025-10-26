@@ -1,6 +1,6 @@
 name: Radeon-HD-6250
 humanName: Radeon HD 6250
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

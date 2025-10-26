@@ -1,6 +1,6 @@
 name: GeForce-615-OEM
 humanName: GeForce 615 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

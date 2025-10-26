@@ -1,6 +1,6 @@
 name: Radeon-R5-M420
 humanName: Radeon R5 M420
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

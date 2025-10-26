@@ -1,6 +1,6 @@
 name: Radeon-R9-370-1024SP
 humanName: Radeon R9 370 1024SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

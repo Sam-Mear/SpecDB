@@ -1,6 +1,6 @@
 name: Radeon-HD-6620G-IGP
 humanName: Radeon HD 6620G IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

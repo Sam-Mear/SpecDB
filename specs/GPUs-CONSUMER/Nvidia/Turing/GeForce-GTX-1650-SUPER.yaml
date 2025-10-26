@@ -1,6 +1,6 @@
 name: GeForce-GTX-1650-SUPER
 humanName: GeForce GTX 1650 SUPER
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

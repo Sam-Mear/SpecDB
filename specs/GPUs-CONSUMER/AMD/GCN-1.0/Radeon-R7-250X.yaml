@@ -1,6 +1,6 @@
 name: Radeon-R7-250X
 humanName: Radeon R7 250X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

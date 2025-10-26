@@ -1,6 +1,6 @@
 name: Quadro-RTX-4000
 humanName: Quadro RTX 4000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

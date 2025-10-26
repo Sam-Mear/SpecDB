@@ -1,6 +1,6 @@
 name: Radeon-HD-6650M
 humanName: Radeon HD 6650M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

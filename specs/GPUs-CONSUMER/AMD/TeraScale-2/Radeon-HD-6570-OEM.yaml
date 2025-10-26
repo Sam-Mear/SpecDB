@@ -1,6 +1,6 @@
 name: Radeon-HD-6570-OEM
 humanName: Radeon HD 6570 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

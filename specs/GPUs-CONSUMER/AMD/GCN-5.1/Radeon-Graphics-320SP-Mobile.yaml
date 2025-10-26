@@ -1,6 +1,6 @@
 name: Radeon-Graphics-320SP-Mobile
 humanName: Radeon Graphics 320SP Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

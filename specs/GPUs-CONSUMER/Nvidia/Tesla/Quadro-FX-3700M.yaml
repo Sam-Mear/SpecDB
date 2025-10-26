@@ -1,6 +1,6 @@
 name: Quadro-FX-3700M
 humanName: Quadro FX 3700M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

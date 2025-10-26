@@ -1,6 +1,6 @@
 name: Radeon-Pro-Vega-64X
 humanName: Radeon Pro Vega 64X
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

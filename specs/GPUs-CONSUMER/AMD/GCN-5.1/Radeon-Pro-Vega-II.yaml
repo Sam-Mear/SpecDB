@@ -1,6 +1,6 @@
 name: Radeon-Pro-Vega-II
 humanName: Radeon Pro Vega II
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

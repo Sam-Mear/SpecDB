@@ -1,6 +1,6 @@
 name: Quadro-FX-3800
 humanName: Quadro FX 3800
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

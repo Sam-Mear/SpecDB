@@ -1,6 +1,6 @@
 name: Quadro-M2200-Mobile
 humanName: Quadro M2200 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

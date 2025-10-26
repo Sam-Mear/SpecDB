@@ -1,6 +1,6 @@
 name: GeForce-GTX-650-Ti-OEM
 humanName: GeForce GTX 650 Ti OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

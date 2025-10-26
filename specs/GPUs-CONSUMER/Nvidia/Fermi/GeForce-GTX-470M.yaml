@@ -1,6 +1,6 @@
 name: GeForce-GTX-470M
 humanName: GeForce GTX 470M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

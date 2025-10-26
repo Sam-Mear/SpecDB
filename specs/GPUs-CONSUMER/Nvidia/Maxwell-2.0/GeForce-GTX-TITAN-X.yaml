@@ -1,6 +1,6 @@
 name: GeForce-GTX-TITAN-X
 humanName: GeForce GTX TITAN X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

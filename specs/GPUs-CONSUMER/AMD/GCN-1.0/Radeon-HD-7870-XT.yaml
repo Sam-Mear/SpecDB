@@ -1,6 +1,6 @@
 name: Radeon-HD-7870-XT
 humanName: Radeon HD 7870 XT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

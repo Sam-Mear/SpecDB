@@ -1,6 +1,6 @@
 name: Radeon-Vega-9-Mobile
 humanName: Radeon Vega 9 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

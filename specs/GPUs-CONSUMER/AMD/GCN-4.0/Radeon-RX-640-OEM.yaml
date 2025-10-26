@@ -1,6 +1,6 @@
 name: Radeon-RX-640-OEM
 humanName: Radeon RX 640 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

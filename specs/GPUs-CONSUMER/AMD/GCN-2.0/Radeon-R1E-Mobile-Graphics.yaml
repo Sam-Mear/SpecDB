@@ -1,6 +1,6 @@
 name: Radeon-R1E-Mobile-Graphics
 humanName: Radeon R1E Mobile Graphics
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-Graphics-512SP
 humanName: Radeon Graphics 512SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

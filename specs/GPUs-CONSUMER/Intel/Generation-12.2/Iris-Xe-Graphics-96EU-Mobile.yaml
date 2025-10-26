@@ -1,6 +1,6 @@
 name: Iris-Xe-Graphics-96EU-Mobile
 humanName: Iris Xe Graphics 96EU Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

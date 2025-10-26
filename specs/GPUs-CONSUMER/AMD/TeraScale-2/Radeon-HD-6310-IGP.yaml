@@ -1,6 +1,6 @@
 name: Radeon-HD-6310-IGP
 humanName: Radeon HD 6310 IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

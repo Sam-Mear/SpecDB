@@ -1,6 +1,6 @@
 name: ION
 humanName: ION
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

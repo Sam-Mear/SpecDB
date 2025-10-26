@@ -1,6 +1,6 @@
 name: Radeon-HD-7410M
 humanName: Radeon HD 7410M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-610M
 humanName: GeForce 610M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

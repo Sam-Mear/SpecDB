@@ -1,6 +1,6 @@
 name: Ryzen-5-1600X
 humanName: Ryzen 5 1600X
-isPart: true
+
 type: CPU
 inherits:
   - Ryzen R5 Base

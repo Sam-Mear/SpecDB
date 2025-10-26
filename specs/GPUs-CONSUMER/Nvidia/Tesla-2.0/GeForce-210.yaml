@@ -1,6 +1,6 @@
 name: GeForce-210
 humanName: GeForce 210
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

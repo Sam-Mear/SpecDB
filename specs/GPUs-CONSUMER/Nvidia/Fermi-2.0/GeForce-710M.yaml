@@ -1,6 +1,6 @@
 name: GeForce-710M
 humanName: GeForce 710M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-HD-6950M
 humanName: Radeon HD 6950M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

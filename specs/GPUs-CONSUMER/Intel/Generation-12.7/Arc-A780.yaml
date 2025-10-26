@@ -1,6 +1,6 @@
 name: Arc-A780
 humanName: Arc A780
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

@@ -1,6 +1,6 @@
 name: GeForce-GT-240M
 humanName: GeForce GT 240M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-R5-330-OEM
 humanName: Radeon R5 330 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

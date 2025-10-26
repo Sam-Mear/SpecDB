@@ -1,6 +1,6 @@
 name: Radeon-610-Mobile
 humanName: Radeon 610 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

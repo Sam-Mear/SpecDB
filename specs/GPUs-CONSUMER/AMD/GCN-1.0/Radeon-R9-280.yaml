@@ -1,6 +1,6 @@
 name: Radeon-R9-280
 humanName: Radeon R9 280
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

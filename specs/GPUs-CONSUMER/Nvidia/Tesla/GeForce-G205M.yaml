@@ -1,6 +1,6 @@
 name: GeForce-G205M
 humanName: GeForce G205M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

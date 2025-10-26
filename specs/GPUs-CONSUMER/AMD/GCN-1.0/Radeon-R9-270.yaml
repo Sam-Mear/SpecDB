@@ -1,6 +1,6 @@
 name: Radeon-R9-270
 humanName: Radeon R9 270
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

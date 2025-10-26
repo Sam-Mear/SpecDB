@@ -1,6 +1,6 @@
 name: Ryzen-7-1800X
 humanName: Ryzen 7 1800X
-isPart: true
+
 type: CPU
 inherits:
   - Ryzen R7 Base

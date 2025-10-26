@@ -1,6 +1,6 @@
 name: Radeon-550X-Mobile
 humanName: Radeon 550X Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

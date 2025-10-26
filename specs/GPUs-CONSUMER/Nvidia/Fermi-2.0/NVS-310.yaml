@@ -1,6 +1,6 @@
 name: NVS-310
 humanName: NVS 310
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

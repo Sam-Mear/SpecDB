@@ -1,6 +1,6 @@
 name: GeForce-GTX-850M
 humanName: GeForce GTX 850M
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

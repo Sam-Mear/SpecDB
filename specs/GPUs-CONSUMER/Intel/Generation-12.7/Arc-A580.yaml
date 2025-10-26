@@ -1,6 +1,6 @@
 name: Arc-A580
 humanName: Arc A580
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

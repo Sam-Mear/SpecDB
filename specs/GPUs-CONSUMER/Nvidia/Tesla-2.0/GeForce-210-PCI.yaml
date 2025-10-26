@@ -1,6 +1,6 @@
 name: GeForce-210-PCI
 humanName: GeForce 210 PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

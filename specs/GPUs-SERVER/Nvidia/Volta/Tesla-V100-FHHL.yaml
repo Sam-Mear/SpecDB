@@ -1,6 +1,6 @@
 name: Tesla-V100-FHHL
 humanName: Tesla V100 FHHL
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

@@ -1,6 +1,6 @@
 name: Radeon-Pro-SSG
 humanName: Radeon Pro SSG
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

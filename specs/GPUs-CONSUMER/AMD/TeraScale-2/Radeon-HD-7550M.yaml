@@ -1,6 +1,6 @@
 name: Radeon-HD-7550M
 humanName: Radeon HD 7550M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

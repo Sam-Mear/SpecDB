@@ -36,3 +36,4 @@ data:
   Length: 241 mm
   Width: 111 mm
   Ray Tracing Cores: 48
+  HLSL Shader Model: '6.7'

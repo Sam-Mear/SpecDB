@@ -30,3 +30,4 @@ data:
   FP32 Compute: 733.4 GFLOPS
   Slot Width: IGP
   Outputs: Motherboard Dependent
+  HLSL Shader Model: '5.0'

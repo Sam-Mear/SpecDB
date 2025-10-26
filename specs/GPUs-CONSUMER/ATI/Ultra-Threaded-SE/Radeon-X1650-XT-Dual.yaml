@@ -30,3 +30,4 @@ data:
   Pixel Shaders: 24
   Market:
     - Consumer
+  HLSL Shader Model: '3.0'

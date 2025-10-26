@@ -3,7 +3,7 @@ name: Ryzen-5-2400G
 humanName: Ryzen 5 2400G
 type: APU
 inherits:
-  - GCN 5
+  - GCN-5
 data:
   Architecture: Zen
   Lithography: 14 nm

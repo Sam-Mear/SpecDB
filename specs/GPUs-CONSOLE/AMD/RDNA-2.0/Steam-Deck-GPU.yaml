@@ -34,3 +34,4 @@ data:
   Height: 49 mm
   Ray Tracing Cores: 8
   Market: Console
+  HLSL Shader Model: '6.5'

@@ -3,6 +3,7 @@ humanName: FX 4170
 
 type: CPU
 inherits:
+  - Bulldozer
   - Bulldozer 4C Base
 data:
   Base Frequency: 4.2 GHz

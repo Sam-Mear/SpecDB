@@ -3,6 +3,7 @@ humanName: FX 6100
 
 type: CPU
 inherits:
+  - Bulldozer
   - Bulldozer 6C Base
 data:
   Base Frequency: 3.3 GHz

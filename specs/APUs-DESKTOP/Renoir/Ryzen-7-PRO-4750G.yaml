@@ -3,7 +3,7 @@ humanName: Ryzen 7 PRO 4750G
 
 type: CPU
 inherits:
-- GCN 5.1
+- GCN-5.1
 - Renoir
 data:
   L1 Cache (Data): 256 KiB

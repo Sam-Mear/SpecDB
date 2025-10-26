@@ -8,7 +8,7 @@ data:
   Vendor: Nvidia
   Architecture: Blackwell
   Lithography: 5 nm
-  HLSL Shader Model: '528'
+
   Vulkan Support: 'N/A'
   OpenGL Support: 'N/A'
   OpenCL Support: '3.0'

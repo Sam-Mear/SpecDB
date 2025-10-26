@@ -29,3 +29,4 @@ data:
   FP64 Compute: 24.79 GFLOPS (1:32)
   Slot Width: Dual-slot
   Outputs: No outputs
+  HLSL Shader Model: '6.7 (5.1)'

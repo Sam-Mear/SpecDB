@@ -31,3 +31,4 @@ data:
   Slot Width: MXM Module
   Outputs: 4x mini-DisplayPort 1.4a
   Power Connectors: None
+  HLSL Shader Model: '6.7'

@@ -3,7 +3,7 @@ humanName: Ryzen 3 PRO 5450U
 
 type: CPU
 inherits:
-- GCN 5.1
+- GCN-5.1
 - Cezanne-M
 data:
   Release Date: '2021-03-16'

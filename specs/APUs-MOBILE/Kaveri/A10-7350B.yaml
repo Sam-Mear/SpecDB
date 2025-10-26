@@ -3,8 +3,8 @@ name: A10-7350B
 humanName: A10-7350B
 type: APU
 inherits:
-  - GCN 2
-  - Kaveri
+  - GCN-2
+  - Kaveri-apu
 data:
 
   Core Count: 4

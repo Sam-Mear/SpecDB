@@ -31,3 +31,4 @@ data:
   Outputs: No outputs
   Market:
     - Consumer
+  HLSL Shader Model: '6.6'

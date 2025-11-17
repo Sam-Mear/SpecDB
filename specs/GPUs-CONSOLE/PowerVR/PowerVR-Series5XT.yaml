@@ -10,6 +10,6 @@ data:
   Release Date: '2011-12-11'
   Manufacturer: PowerVR
 sections:
-  - header: WHOLE RANGE
+  - header: PlayStation Vita
     members:
     - Playstation-Vita-GPU

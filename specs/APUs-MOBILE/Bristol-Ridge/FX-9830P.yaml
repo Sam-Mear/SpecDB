@@ -3,7 +3,7 @@ name: FX-9830P
 humanName: FX-9830P
 type: APU
 inherits:
-  - GCN 3
+  - "GCN-3"
   - Bristol-Ridge
 data:
 

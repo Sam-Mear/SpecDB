@@ -36,3 +36,4 @@ data:
   Length: 180 mm
   Market:
     - Consumer
+  HLSL Shader Model: '6.7'

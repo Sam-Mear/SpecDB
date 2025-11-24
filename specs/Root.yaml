@@ -40,7 +40,7 @@ sections:
     - GPUs-CONSUMER-MATROX
   - header: PowerVR
     members:
-    - GPUs-CONSUMER-POWERVR
+    - GPUs-CONSOLE-POWERVR
   - header: XGI
     members:
     - GPUs-CONSUMER-XGI

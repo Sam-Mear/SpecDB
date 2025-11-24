@@ -31,3 +31,4 @@ data:
   Slot Width: MXM Module
   Outputs: No outputs
   Power Connectors: None
+  HLSL Shader Model: '5.1'

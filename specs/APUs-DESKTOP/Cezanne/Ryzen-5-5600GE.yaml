@@ -3,7 +3,7 @@ humanName: Ryzen 5 5600GE
 
 type: CPU
 inherits:
-- GCN 5.1
+- GCN-5.1
 - Cezanne
 data:
   Release Date: '2021-04-13'

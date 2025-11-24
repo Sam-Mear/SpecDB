@@ -33,3 +33,4 @@ data:
   Outputs: Portable Device Dependent
   Power Connectors: None
   Length: 25 mm
+  HLSL Shader Model: '6.7'

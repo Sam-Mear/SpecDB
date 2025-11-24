@@ -31,3 +31,4 @@ data:
     - 1x S-Video
   Power Connectors: 1x 6-pin
   Pixel Shaders: 36
+  HLSL Shader Model: '3.0'

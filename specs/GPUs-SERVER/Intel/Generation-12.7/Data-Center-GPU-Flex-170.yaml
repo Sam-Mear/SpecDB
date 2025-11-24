@@ -35,3 +35,4 @@ data:
   Ray Tracing Cores: 32
   Market:
     - Data center
+  HLSL Shader Model: '6.6'

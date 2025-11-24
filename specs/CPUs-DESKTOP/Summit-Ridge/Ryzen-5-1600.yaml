@@ -3,6 +3,7 @@ humanName: Ryzen 5 1600
 
 type: CPU
 inherits:
+  - Summit-Ridge
   - Ryzen R5 Base
 data:
   Core Count: 6

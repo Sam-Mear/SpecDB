@@ -1,6 +1,6 @@
 name: FirePro-2260-PCI
 humanName: FirePro 2260 PCI
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

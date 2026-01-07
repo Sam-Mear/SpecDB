@@ -1,6 +1,6 @@
 name: TITAN-V-CEO-Edition
 humanName: TITAN V CEO Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

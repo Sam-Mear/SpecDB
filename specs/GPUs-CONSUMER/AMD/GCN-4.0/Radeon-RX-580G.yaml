@@ -1,6 +1,6 @@
 name: Radeon-RX-580G
 humanName: Radeon RX 580G
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

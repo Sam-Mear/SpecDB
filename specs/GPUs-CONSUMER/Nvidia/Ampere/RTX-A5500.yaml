@@ -1,6 +1,6 @@
 name: RTX-A5500
 humanName: RTX A5500
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

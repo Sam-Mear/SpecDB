@@ -1,6 +1,6 @@
 name: GeForce-GT-750M
 humanName: GeForce GT 750M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

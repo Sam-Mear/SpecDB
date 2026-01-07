@@ -1,6 +1,6 @@
 name: GeForce-GTX-560-Ti-OEM
 humanName: GeForce GTX 560 Ti OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

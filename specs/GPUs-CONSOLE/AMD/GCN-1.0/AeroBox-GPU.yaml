@@ -1,6 +1,6 @@
 name: AeroBox-GPU
 humanName: AeroBox GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

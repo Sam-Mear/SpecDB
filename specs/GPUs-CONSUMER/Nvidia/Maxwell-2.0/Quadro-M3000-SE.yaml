@@ -1,6 +1,6 @@
 name: Quadro-M3000-SE
 humanName: Quadro M3000 SE
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

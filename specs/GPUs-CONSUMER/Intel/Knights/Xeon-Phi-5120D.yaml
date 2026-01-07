@@ -1,6 +1,6 @@
 name: Xeon-Phi-5120D
 humanName: Xeon Phi 5120D
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

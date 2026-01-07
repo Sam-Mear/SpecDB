@@ -1,6 +1,6 @@
 name: L20
 humanName: L20
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

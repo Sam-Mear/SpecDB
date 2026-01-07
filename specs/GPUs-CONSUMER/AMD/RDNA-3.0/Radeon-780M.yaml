@@ -1,6 +1,6 @@
 name: Radeon-780M
 humanName: Radeon 780M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

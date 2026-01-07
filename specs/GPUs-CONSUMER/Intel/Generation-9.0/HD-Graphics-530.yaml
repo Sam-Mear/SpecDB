@@ -1,6 +1,6 @@
 name: HD-Graphics-530
 humanName: HD Graphics 530
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

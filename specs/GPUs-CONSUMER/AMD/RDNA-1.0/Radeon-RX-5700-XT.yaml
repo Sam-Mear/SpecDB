@@ -1,6 +1,6 @@
 name: Radeon-RX-5700-XT
 humanName: Radeon RX 5700 XT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

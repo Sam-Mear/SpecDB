@@ -1,6 +1,6 @@
 name: GeForce-Go-7900-GTX
 humanName: GeForce Go 7900 GTX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-9600-GT-Green-Edition
 humanName: GeForce 9600 GT Green Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

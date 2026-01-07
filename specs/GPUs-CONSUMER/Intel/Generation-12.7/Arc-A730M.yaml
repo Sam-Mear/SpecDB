@@ -1,6 +1,6 @@
 name: Arc-A730M
 humanName: Arc A730M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

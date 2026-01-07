@@ -1,6 +1,6 @@
 name: GeForce-605-OEM
 humanName: GeForce 605 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

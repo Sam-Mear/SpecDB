@@ -1,6 +1,6 @@
 name: GeForce-GT-720A
 humanName: GeForce GT 720A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

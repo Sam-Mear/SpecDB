@@ -1,6 +1,6 @@
 name: CMP-70HX
 humanName: CMP 70HX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

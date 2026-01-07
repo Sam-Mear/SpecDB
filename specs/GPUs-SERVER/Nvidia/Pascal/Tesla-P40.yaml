@@ -1,6 +1,6 @@
 name: Tesla-P40
 humanName: Tesla P40
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

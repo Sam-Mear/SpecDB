@@ -1,6 +1,6 @@
 name: GeForce-RTX-4070-Ti-SUPER
 humanName: GeForce RTX 4070 Ti SUPER
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

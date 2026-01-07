@@ -1,6 +1,6 @@
 name: Radeon-Pro-Duo-Polaris
 humanName: Radeon Pro Duo Polaris
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

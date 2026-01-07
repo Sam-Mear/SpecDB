@@ -1,6 +1,6 @@
 name: GeForce-GTX-1070-GDDR5X
 humanName: GeForce GTX 1070 GDDR5X
-isPart: true
+
 type: Graphics Card
 data:
   Market: Consumer

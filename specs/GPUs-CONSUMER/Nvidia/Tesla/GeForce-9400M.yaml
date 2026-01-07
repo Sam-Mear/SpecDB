@@ -1,6 +1,6 @@
 name: GeForce-9400M
 humanName: GeForce 9400M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

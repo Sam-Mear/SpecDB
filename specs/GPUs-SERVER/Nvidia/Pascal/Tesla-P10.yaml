@@ -1,6 +1,6 @@
 name: Tesla-P10
 humanName: Tesla P10
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

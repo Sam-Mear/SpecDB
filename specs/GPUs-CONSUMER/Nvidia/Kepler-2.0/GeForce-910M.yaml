@@ -1,6 +1,6 @@
 name: GeForce-910M
 humanName: GeForce 910M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

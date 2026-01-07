@@ -1,6 +1,6 @@
 name: Radeon-HD-4250
 humanName: Radeon HD 4250
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-GT-545
 humanName: GeForce GT 545
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

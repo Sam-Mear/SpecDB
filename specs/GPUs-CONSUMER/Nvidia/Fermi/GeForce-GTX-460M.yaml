@@ -1,6 +1,6 @@
 name: GeForce-GTX-460M
 humanName: GeForce GTX 460M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

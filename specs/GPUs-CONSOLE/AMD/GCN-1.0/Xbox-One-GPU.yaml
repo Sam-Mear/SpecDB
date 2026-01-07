@@ -1,6 +1,6 @@
 name: Xbox-One-GPU
 humanName: Xbox One GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

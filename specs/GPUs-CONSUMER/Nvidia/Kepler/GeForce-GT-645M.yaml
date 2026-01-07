@@ -1,6 +1,6 @@
 name: GeForce-GT-645M
 humanName: GeForce GT 645M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

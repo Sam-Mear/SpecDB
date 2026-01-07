@@ -1,6 +1,6 @@
 name: GeForce-8600M-GS
 humanName: GeForce 8600M GS
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

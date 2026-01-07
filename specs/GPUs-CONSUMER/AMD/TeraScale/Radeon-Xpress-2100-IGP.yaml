@@ -1,6 +1,6 @@
 name: Radeon-Xpress-2100-IGP
 humanName: Radeon Xpress 2100 IGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

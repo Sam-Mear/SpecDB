@@ -1,6 +1,6 @@
 name: Radeon-RX-560
 humanName: Radeon RX 560
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

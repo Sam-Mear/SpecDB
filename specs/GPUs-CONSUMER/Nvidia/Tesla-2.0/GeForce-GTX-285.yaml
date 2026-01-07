@@ -1,6 +1,6 @@
 name: GeForce-GTX-285
 humanName: GeForce GTX 285
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

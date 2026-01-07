@@ -1,6 +1,6 @@
 name: A800-PCIe-80-GB
 humanName: A800 PCIe 80 GB
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -2,7 +2,7 @@
 # This part exists in the DB, but isnt listed.
 name: GeForce-RTX-3070-TiM
 humanName: GeForce RTX 3070 TiM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

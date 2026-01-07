@@ -1,6 +1,6 @@
 name: GeForce-8600-GTS-Mac-Edition
 humanName: GeForce 8600 GTS Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

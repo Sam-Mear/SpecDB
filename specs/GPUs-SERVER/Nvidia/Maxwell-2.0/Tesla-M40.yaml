@@ -1,6 +1,6 @@
 name: Tesla-M40
 humanName: Tesla M40
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

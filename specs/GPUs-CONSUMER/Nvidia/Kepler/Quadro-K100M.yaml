@@ -1,6 +1,6 @@
 name: Quadro-K100M
 humanName: Quadro K100M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

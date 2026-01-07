@@ -1,6 +1,6 @@
 name: Radeon-HD-3550
 humanName: Radeon HD 3550
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

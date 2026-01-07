@@ -1,6 +1,6 @@
 name: GeForce-GT-320-OEM
 humanName: GeForce GT 320 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-9300-+-nForce-730i
 humanName: GeForce 9300 + nForce 730i
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

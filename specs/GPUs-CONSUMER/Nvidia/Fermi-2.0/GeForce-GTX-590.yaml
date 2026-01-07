@@ -1,6 +1,6 @@
 name: GeForce-GTX-590
 humanName: GeForce GTX 590
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

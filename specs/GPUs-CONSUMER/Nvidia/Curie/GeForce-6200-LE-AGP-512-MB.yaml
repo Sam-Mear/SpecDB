@@ -1,6 +1,6 @@
 name: GeForce-6200-LE-AGP-512-MB
 humanName: GeForce 6200 LE AGP 512 MB
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

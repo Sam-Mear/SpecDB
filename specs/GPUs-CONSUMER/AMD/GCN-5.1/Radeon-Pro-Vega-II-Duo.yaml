@@ -1,6 +1,6 @@
 name: Radeon-Pro-Vega-II-Duo
 humanName: Radeon Pro Vega II Duo
-isPart: true
+
 type: Graphics Card
 inherits:
   - GCN-5.1

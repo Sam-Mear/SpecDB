@@ -1,6 +1,6 @@
 name: Tesla-K40m
 humanName: Tesla K40m
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

@@ -1,6 +1,6 @@
 name: Quadro-K620M
 humanName: Quadro K620M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

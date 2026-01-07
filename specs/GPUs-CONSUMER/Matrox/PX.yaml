@@ -1,7 +1,7 @@
 name: PX 
 humanName: PX
 type: Graphics Architecture
-isPart: false
+
 topHeader: 'SELECT CARD:'
 data:
   Lithography: 90 nm

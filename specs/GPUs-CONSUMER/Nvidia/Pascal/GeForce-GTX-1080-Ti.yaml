@@ -1,6 +1,6 @@
 name: GeForce-GTX-1080-Ti
 humanName: GeForce GTX 1080 Ti
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

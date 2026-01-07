@@ -1,6 +1,6 @@
 name: TITAN-Ada
 humanName: TITAN Ada
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

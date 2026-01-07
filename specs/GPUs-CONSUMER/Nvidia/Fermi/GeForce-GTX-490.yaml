@@ -1,6 +1,6 @@
 name: GeForce-GTX-490
 humanName: GeForce GTX 490
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

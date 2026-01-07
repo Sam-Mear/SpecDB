@@ -1,6 +1,6 @@
 name: GeForce-GT-1030-GK107
 humanName: GeForce GT 1030 GK107
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-RX-6550S
 humanName: Radeon RX 6550S
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Quadro-4000
 humanName: Quadro 4000
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

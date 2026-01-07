@@ -1,6 +1,6 @@
 name: NVS-2100M
 humanName: NVS 2100M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: RTX-A5000
 humanName: RTX A5000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

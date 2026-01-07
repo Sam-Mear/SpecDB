@@ -1,6 +1,6 @@
 name: GeForce-Go-7300T
 humanName: GeForce Go 7300T
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

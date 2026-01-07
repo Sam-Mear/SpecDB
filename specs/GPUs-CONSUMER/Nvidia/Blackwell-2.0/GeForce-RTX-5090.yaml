@@ -1,6 +1,6 @@
 name: GeForce-RTX-5090
 humanName: GeForce RTX 5090
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

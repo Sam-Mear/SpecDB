@@ -1,6 +1,6 @@
 name: Radeon-HD-2900-GT
 humanName: Radeon HD 2900 GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-GTS-250
 humanName: GeForce GTS 250
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

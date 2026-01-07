@@ -1,6 +1,6 @@
 name: GeForce-G105M
 humanName: GeForce G105M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-MX570-A
 humanName: GeForce MX570 A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

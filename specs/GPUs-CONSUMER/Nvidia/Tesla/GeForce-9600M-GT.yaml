@@ -1,6 +1,6 @@
 name: GeForce-9600M-GT
 humanName: GeForce 9600M GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

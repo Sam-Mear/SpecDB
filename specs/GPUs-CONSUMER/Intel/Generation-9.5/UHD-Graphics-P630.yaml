@@ -1,6 +1,6 @@
 name: UHD-Graphics-P630
 humanName: UHD Graphics P630
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

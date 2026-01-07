@@ -1,6 +1,6 @@
 name: Radeon-RX-7700S
 humanName: Radeon RX 7700S
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

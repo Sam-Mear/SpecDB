@@ -1,6 +1,6 @@
 name: Radeon-E9550-MXM
 humanName: Radeon E9550 MXM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

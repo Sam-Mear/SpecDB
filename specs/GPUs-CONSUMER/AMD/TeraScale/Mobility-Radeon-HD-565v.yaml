@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-565v
 humanName: Mobility Radeon HD 565v
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

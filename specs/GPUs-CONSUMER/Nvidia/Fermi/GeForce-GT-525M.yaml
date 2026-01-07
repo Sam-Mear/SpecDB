@@ -1,6 +1,6 @@
 name: GeForce-GT-525M
 humanName: GeForce GT 525M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

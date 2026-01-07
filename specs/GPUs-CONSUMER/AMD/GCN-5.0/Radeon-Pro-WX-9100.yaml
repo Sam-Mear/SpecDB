@@ -1,6 +1,6 @@
 name: Radeon-Pro-WX-9100
 humanName: Radeon Pro WX 9100
-isPart: true
+
 type: Graphics Card
 inherit:
   - GCN-5

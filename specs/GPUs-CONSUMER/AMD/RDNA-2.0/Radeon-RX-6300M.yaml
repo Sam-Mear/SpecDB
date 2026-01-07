@@ -1,6 +1,6 @@
 name: Radeon-RX-6300M
 humanName: Radeon RX 6300M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

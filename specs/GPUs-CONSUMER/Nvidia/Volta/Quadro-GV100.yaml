@@ -1,6 +1,6 @@
 name: Quadro-GV100
 humanName: Quadro GV100
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

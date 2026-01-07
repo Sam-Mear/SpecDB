@@ -1,6 +1,6 @@
 name: Radeon-550X
 humanName: Radeon 550X
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

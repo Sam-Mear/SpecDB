@@ -1,6 +1,6 @@
 name: GeForce-GTX-485M
 humanName: GeForce GTX 485M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

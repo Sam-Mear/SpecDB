@@ -1,6 +1,6 @@
 name: Radeon-E9172-MXM
 humanName: Radeon E9172 MXM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

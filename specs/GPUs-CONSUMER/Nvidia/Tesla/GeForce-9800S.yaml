@@ -1,6 +1,6 @@
 name: GeForce-9800S
 humanName: GeForce 9800S
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

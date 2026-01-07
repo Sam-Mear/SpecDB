@@ -1,6 +1,6 @@
 name: Jetson-TX1
 humanName: Jetson TX1
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

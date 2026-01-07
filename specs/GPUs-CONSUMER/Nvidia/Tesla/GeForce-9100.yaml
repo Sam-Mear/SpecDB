@@ -1,6 +1,6 @@
 name: GeForce-9100
 humanName: GeForce 9100
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

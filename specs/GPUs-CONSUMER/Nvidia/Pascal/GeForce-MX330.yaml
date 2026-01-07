@@ -1,6 +1,6 @@
 name: GeForce-MX330
 humanName: GeForce MX330
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

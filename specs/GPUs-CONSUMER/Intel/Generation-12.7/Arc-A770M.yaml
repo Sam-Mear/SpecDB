@@ -1,6 +1,6 @@
 name: Arc-A770M
 humanName: Arc A770M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

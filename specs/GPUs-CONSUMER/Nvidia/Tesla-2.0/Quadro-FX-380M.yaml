@@ -1,6 +1,6 @@
 name: Quadro-FX-380M
 humanName: Quadro FX 380M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

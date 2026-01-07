@@ -1,6 +1,6 @@
 name: GeForce-8700M-GT
 humanName: GeForce 8700M GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-X1300-CE
 humanName: Radeon X1300 CE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

@@ -1,6 +1,6 @@
 name: GeForce-GTX-TITAN-Z
 humanName: GeForce GTX TITAN Z
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

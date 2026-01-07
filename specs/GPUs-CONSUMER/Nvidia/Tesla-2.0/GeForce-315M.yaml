@@ -1,6 +1,6 @@
 name: GeForce-315M
 humanName: GeForce 315M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

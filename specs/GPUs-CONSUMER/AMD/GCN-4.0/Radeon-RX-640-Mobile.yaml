@@ -1,6 +1,6 @@
 name: Radeon-RX-640-Mobile
 humanName: Radeon RX 640 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

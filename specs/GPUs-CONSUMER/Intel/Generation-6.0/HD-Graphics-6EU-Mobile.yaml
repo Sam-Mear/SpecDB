@@ -1,6 +1,6 @@
 name: HD-Graphics-6EU-Mobile
 humanName: HD Graphics 6EU Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

@@ -1,6 +1,6 @@
 name: Quadro-3000M-X2
 humanName: Quadro 3000M X2
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

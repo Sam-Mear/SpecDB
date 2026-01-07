@@ -1,6 +1,6 @@
 name: GeForce-845M
 humanName: GeForce 845M
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

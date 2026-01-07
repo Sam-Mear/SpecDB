@@ -1,6 +1,6 @@
 name: GeForce-945A
 humanName: GeForce 945A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

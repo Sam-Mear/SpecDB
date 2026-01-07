@@ -1,6 +1,6 @@
 name: GeForce-9800-GX2
 humanName: GeForce 9800 GX2
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Data-Center-GPU-Flex-170
 humanName: Data Center GPU Flex 170
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

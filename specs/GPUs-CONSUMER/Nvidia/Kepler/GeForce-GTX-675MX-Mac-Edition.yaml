@@ -1,6 +1,6 @@
 name: GeForce-GTX-675MX-Mac-Edition
 humanName: GeForce GTX 675MX Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

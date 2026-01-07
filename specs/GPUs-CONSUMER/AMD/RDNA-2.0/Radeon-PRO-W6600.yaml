@@ -1,6 +1,6 @@
 name: Radeon-PRO-W6600
 humanName: Radeon PRO W6600
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

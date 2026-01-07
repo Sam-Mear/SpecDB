@@ -1,6 +1,6 @@
 name: Radeon-HD-2900-XTX
 humanName: Radeon HD 2900 XTX
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

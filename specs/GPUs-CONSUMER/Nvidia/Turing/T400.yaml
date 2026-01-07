@@ -1,6 +1,6 @@
 name: T400
 humanName: T400
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

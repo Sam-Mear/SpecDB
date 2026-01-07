@@ -1,6 +1,6 @@
 name: GeForce-8500-GT
 humanName: GeForce 8500 GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-RX-480
 humanName: Radeon RX 480
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-HD-2400-PRO-AGP
 humanName: Radeon HD 2400 PRO AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

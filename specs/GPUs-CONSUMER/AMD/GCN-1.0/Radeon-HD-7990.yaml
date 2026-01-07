@@ -1,6 +1,6 @@
 name: Radeon-HD-7990
 humanName: Radeon HD 7990
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

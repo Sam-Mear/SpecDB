@@ -1,6 +1,6 @@
 name: Radeon-RX-470-Mobile
 humanName: Radeon RX 470 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

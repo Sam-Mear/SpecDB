@@ -1,6 +1,6 @@
 name: GeForce-7150M-+-nForce-630M
 humanName: GeForce 7150M + nForce 630M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

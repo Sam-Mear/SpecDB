@@ -1,6 +1,6 @@
 name: Quadro-K420
 humanName: Quadro K420
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

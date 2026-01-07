@@ -1,6 +1,6 @@
 name: Mobility-Radeon-HD-530v
 humanName: Mobility Radeon HD 530v
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

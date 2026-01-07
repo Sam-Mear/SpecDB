@@ -1,6 +1,6 @@
 name: GeForce-GTX-970M
 humanName: GeForce GTX 970M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

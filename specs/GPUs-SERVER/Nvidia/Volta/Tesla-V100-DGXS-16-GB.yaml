@@ -1,6 +1,6 @@
 name: Tesla-V100-DGXS-16-GB
 humanName: Tesla V100 DGXS 16 GB
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

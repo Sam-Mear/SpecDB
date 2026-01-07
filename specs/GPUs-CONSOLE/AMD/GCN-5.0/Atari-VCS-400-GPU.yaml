@@ -1,6 +1,6 @@
 name: Atari-VCS-400-GPU
 humanName: Atari VCS 400 GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

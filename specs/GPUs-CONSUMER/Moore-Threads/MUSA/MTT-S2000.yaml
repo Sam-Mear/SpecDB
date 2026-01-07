@@ -1,6 +1,6 @@
 name: MTT-S2000
 humanName: MTT S2000
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Moore-Threads

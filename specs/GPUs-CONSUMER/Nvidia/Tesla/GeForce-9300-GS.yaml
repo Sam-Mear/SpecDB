@@ -1,6 +1,6 @@
 name: GeForce-9300-GS
 humanName: GeForce 9300 GS
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

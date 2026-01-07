@@ -1,6 +1,6 @@
 name: GeForce-GTX-1050
 humanName: GeForce GTX 1050
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

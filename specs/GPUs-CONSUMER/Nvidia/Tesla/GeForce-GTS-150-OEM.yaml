@@ -1,6 +1,6 @@
 name: GeForce-GTS-150-OEM
 humanName: GeForce GTS 150 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

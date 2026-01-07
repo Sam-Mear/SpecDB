@@ -1,6 +1,6 @@
 name: H3C-XG310
 humanName: H3C XG310
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

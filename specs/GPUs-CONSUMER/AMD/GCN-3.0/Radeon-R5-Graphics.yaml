@@ -1,6 +1,6 @@
 name: Radeon-R5-Graphics
 humanName: Radeon R5 Graphics
-isPart: true
+
 type: Graphics Card
 inherit:
   - "GCN-3"

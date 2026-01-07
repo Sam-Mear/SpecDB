@@ -1,6 +1,6 @@
 name: Radeon-RX-460-1024SP
 humanName: Radeon RX 460 1024SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

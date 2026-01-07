@@ -1,6 +1,6 @@
 name: Radeon-RX-6700M
 humanName: Radeon RX 6700M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

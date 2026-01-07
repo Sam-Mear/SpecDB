@@ -1,6 +1,6 @@
 name: GeForce-GTX-1050-Ti-Mobile
 humanName: GeForce GTX 1050 Ti Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

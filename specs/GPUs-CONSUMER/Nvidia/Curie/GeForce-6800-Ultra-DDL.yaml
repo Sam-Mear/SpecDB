@@ -1,6 +1,6 @@
 name: GeForce-6800-Ultra-DDL
 humanName: GeForce 6800 Ultra DDL
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

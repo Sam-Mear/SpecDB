@@ -1,6 +1,6 @@
 name: Quadro-K5000M
 humanName: Quadro K5000M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

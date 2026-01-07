@@ -1,6 +1,6 @@
 name: GeForce-RTX-5060-Mobile
 humanName: GeForce RTX 5060 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market:

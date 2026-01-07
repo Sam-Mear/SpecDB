@@ -1,6 +1,6 @@
 name: Playstation-Vita-GPU
 humanName: Playstation Vita GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: PowerVR

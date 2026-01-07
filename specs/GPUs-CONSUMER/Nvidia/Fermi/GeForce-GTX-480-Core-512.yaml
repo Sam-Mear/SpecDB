@@ -1,6 +1,6 @@
 name: GeForce-GTX-480-Core-512
 humanName: GeForce GTX 480 Core 512
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

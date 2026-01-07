@@ -1,6 +1,6 @@
 name: Quadro-RTX-6000-Mobile
 humanName: Quadro RTX 6000 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

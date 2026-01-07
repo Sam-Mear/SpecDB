@@ -1,6 +1,6 @@
 name: Radeon-HD-2600-XT-AGP
 humanName: Radeon HD 2600 XT AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

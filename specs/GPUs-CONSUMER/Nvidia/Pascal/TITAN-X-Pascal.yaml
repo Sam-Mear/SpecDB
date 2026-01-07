@@ -1,6 +1,6 @@
 name: TITAN-X-Pascal
 humanName: TITAN X Pascal
-isPart: true
+
 type: Graphics Card
 data:
   Market: Consumer

@@ -1,6 +1,6 @@
 name: TITAN-Xp
 humanName: TITAN Xp
-isPart: true
+
 type: Graphics Card
 data:
   Market: Consumer

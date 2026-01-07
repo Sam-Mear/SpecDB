@@ -1,6 +1,6 @@
 name: HD-Graphics-2000
 humanName: HD Graphics 2000
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

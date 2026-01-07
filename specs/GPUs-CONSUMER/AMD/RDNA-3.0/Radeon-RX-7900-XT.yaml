@@ -1,6 +1,6 @@
 name: Radeon-RX-7900-XT
 humanName: Radeon RX 7900 XT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

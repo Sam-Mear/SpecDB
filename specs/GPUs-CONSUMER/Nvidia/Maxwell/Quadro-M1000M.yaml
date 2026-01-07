@@ -1,6 +1,6 @@
 name: Quadro-M1000M
 humanName: Quadro M1000M
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

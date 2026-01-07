@@ -1,6 +1,6 @@
 name: GeForce-6700-XL
 humanName: GeForce 6700 XL
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

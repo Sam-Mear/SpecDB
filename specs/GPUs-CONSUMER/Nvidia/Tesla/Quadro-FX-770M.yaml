@@ -1,6 +1,6 @@
 name: Quadro-FX-770M
 humanName: Quadro FX 770M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

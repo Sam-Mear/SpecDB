@@ -1,6 +1,6 @@
 name: Quadro-NVS-300M
 humanName: Quadro NVS 300M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

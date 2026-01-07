@@ -1,6 +1,6 @@
 name: GeForce-410M
 humanName: GeForce 410M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

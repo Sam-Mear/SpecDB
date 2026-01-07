@@ -1,6 +1,6 @@
 name: GeForce-7800-GT
 humanName: GeForce 7800 GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

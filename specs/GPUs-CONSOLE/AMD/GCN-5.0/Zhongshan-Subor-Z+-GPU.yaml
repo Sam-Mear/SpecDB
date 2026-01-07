@@ -1,6 +1,6 @@
 name: Zhongshan-Subor-Z+-GPU
 humanName: Zhongshan Subor Z+ GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Jetson-AGX-Orin-64-GB
 humanName: Jetson AGX Orin 64 GB
-isPart: true
+
 type: Graphics Card
 data:
   Market:

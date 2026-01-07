@@ -1,6 +1,6 @@
 name: Jetson-AGX-Xavier-32-GB
 humanName: Jetson AGX Xavier 32 GB
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

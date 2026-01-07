@@ -1,6 +1,6 @@
 name: A16-PCIe
 humanName: A16 PCIe
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

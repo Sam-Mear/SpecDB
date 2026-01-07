@@ -1,6 +1,6 @@
 name: Tesla-P100-DGXS
 humanName: Tesla P100 DGXS
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

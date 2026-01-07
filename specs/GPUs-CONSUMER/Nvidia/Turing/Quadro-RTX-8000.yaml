@@ -1,6 +1,6 @@
 name: Quadro-RTX-8000
 humanName: Quadro RTX 8000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

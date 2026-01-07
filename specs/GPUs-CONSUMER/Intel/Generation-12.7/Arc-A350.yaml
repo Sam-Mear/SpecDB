@@ -1,6 +1,6 @@
 name: Arc-A350
 humanName: Arc A350
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

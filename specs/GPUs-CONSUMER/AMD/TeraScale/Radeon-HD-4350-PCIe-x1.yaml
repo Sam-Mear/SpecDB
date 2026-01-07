@@ -1,6 +1,6 @@
 name: Radeon-HD-4350-PCIe-x1
 humanName: Radeon HD 4350 PCIe x1
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

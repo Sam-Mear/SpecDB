@@ -1,6 +1,6 @@
 name: GeForce-GTX-960-OEM
 humanName: GeForce GTX 960 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

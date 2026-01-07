@@ -1,6 +1,6 @@
 name: GeForce-GT-120-Mac-Edition
 humanName: GeForce GT 120 Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

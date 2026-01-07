@@ -1,6 +1,6 @@
 name: Radeon-Pro-V7300X
 humanName: Radeon Pro V7300X
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

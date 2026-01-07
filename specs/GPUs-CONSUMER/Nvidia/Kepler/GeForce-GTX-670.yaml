@@ -1,6 +1,6 @@
 name: GeForce-GTX-670
 humanName: GeForce GTX 670
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

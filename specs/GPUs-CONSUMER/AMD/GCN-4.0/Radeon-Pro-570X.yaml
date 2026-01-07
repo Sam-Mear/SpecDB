@@ -1,6 +1,6 @@
 name: Radeon-Pro-570X
 humanName: Radeon Pro 570X
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

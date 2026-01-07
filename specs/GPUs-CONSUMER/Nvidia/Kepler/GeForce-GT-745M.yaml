@@ -1,6 +1,6 @@
 name: GeForce-GT-745M
 humanName: GeForce GT 745M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

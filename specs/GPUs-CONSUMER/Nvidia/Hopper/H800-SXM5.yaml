@@ -1,6 +1,6 @@
 name: H800-SXM5
 humanName: H800 SXM5
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

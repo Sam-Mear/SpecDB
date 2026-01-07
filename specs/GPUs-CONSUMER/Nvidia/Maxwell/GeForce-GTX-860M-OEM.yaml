@@ -1,6 +1,6 @@
 name: GeForce-GTX-860M-OEM
 humanName: GeForce GTX 860M OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

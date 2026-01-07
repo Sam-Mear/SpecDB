@@ -1,6 +1,6 @@
 name: GeForce-GT-420M
 humanName: GeForce GT 420M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

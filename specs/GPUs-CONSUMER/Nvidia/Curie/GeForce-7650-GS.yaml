@@ -1,6 +1,6 @@
 name: GeForce-7650-GS
 humanName: GeForce 7650 GS
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

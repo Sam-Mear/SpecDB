@@ -1,6 +1,6 @@
 name: GeForce-MX550
 humanName: GeForce MX550
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

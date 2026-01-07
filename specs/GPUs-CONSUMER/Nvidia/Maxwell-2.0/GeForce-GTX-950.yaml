@@ -1,6 +1,6 @@
 name: GeForce-GTX-950
 humanName: GeForce GTX 950
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

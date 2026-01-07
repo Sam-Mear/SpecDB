@@ -1,6 +1,6 @@
 name: GeForce-GTX-570M
 humanName: GeForce GTX 570M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

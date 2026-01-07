@@ -1,6 +1,6 @@
 name: Radeon-HD-2600-PRO
 humanName: Radeon HD 2600 PRO
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: GeForce-GT-650M
 humanName: GeForce GT 650M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

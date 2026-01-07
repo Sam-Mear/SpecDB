@@ -1,6 +1,6 @@
 name: Quadro-P4000
 humanName: Quadro P4000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

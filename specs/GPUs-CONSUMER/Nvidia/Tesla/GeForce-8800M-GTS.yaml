@@ -1,6 +1,6 @@
 name: GeForce-8800M-GTS
 humanName: GeForce 8800M GTS
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GT-540M
 humanName: GeForce GT 540M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

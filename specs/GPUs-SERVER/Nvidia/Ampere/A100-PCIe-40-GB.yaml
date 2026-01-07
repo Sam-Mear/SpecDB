@@ -1,6 +1,6 @@
 name: A100-PCIe-40-GB
 humanName: A100 PCIe 40 GB
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

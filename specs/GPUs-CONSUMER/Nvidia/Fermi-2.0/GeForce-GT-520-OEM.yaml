@@ -1,6 +1,6 @@
 name: GeForce-GT-520-OEM
 humanName: GeForce GT 520 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Quadro-VX-200
 humanName: Quadro VX 200
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

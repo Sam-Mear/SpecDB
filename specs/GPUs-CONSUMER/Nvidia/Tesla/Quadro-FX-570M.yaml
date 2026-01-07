@@ -1,6 +1,6 @@
 name: Quadro-FX-570M
 humanName: Quadro FX 570M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

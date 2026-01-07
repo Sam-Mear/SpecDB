@@ -1,6 +1,6 @@
 name: MTT-S4000
 humanName: MTT S4000
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Moore-Threads

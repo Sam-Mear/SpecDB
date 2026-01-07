@@ -1,6 +1,6 @@
 name: NVS-3100M
 humanName: NVS 3100M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

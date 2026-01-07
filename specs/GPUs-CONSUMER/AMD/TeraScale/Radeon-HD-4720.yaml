@@ -1,6 +1,6 @@
 name: Radeon-HD-4720
 humanName: Radeon HD 4720
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

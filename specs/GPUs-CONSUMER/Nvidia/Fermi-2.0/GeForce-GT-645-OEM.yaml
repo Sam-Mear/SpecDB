@@ -1,6 +1,6 @@
 name: GeForce-GT-645-OEM
 humanName: GeForce GT 645 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

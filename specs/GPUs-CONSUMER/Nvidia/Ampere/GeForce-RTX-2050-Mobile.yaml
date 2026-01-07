@@ -1,6 +1,6 @@
 name: GeForce-RTX-2050-Mobile
 humanName: GeForce RTX 2050 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

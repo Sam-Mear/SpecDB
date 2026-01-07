@@ -1,6 +1,6 @@
 name: Radeon-HD-4650-AGP
 humanName: Radeon HD 4650 AGP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

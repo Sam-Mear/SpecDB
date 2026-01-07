@@ -1,6 +1,6 @@
 name: Quadro-M2000
 humanName: Quadro M2000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

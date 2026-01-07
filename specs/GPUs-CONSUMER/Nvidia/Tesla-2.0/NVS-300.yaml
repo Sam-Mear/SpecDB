@@ -1,6 +1,6 @@
 name: NVS-300
 humanName: NVS 300
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

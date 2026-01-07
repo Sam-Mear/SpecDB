@@ -1,6 +1,6 @@
 name: GeForce-7300-GS
 humanName: GeForce 7300 GS
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

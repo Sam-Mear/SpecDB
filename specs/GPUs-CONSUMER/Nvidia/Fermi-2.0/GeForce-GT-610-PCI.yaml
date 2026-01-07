@@ -1,6 +1,6 @@
 name: GeForce-GT-610-PCI
 humanName: GeForce GT 610 PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

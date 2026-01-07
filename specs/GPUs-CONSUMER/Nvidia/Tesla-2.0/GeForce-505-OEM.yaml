@@ -1,6 +1,6 @@
 name: GeForce-505-OEM
 humanName: GeForce 505 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

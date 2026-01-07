@@ -1,6 +1,6 @@
 name: GeForce-RTX-5070
 humanName: GeForce RTX 5070
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

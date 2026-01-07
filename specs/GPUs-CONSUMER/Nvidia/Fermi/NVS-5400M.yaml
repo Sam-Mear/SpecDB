@@ -1,6 +1,6 @@
 name: NVS-5400M
 humanName: NVS 5400M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

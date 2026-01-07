@@ -1,6 +1,6 @@
 name: GeForce-GTX-470-PhysX-Edition
 humanName: GeForce GTX 470 PhysX Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: GeForce-GTX-980M
 humanName: GeForce GTX 980M
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

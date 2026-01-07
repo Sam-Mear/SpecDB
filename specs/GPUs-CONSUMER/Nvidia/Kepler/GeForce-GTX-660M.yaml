@@ -1,6 +1,6 @@
 name: GeForce-GTX-660M
 humanName: GeForce GTX 660M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

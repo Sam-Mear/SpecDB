@@ -1,6 +1,6 @@
 name: GeForce-RTX-2060-Max-Q
 humanName: GeForce RTX 2060 Max-Q
-isPart: true
+
 type: Graphics Card
 data:
   Market:

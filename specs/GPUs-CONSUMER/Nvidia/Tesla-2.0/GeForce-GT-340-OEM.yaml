@@ -1,6 +1,6 @@
 name: GeForce-GT-340-OEM
 humanName: GeForce GT 340 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

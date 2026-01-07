@@ -1,6 +1,6 @@
 name: Mobility-Radeon-X2300
 humanName: Mobility Radeon X2300
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

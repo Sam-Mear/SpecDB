@@ -1,6 +1,6 @@
 name: GeForce-8100-+-nForce-720a
 humanName: GeForce 8100 + nForce 720a
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

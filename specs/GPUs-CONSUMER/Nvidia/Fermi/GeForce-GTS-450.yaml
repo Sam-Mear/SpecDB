@@ -1,6 +1,6 @@
 name: GeForce-GTS-450
 humanName: GeForce GTS 450
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

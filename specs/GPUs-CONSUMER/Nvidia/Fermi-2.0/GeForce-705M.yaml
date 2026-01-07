@@ -1,6 +1,6 @@
 name: GeForce-705M
 humanName: GeForce 705M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

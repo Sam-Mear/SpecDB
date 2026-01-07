@@ -1,6 +1,6 @@
 name: GeForce-GT-330M
 humanName: GeForce GT 330M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

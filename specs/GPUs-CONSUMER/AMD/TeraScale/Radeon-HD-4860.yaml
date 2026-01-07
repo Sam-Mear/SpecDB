@@ -1,6 +1,6 @@
 name: Radeon-HD-4860
 humanName: Radeon HD 4860
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

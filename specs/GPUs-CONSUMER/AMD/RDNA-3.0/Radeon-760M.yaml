@@ -1,6 +1,6 @@
 name: Radeon-760M
 humanName: Radeon 760M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Mobile

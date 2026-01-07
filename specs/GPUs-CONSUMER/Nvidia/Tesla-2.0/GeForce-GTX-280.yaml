@@ -1,6 +1,6 @@
 name: GeForce-GTX-280
 humanName: GeForce GTX 280
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: RTX-A6000
 humanName: RTX A6000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

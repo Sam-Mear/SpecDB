@@ -1,6 +1,6 @@
 name: FirePro-W7170M
 humanName: FirePro W7170M
-isPart: true
+
 type: Graphics Card
 inherit:
   - "GCN-3"

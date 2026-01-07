@@ -1,6 +1,6 @@
 name: GeForce-GTX-960M
 humanName: GeForce GTX 960M
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

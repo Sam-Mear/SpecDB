@@ -1,6 +1,6 @@
 name: Quadro-K600
 humanName: Quadro K600
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

@@ -1,6 +1,6 @@
 name: Quadro-K5200
 humanName: Quadro K5200
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

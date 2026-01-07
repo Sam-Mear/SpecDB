@@ -1,6 +1,6 @@
 name: GeForce-GT-555M
 humanName: GeForce GT 555M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

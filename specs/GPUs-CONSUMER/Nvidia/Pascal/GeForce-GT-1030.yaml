@@ -1,6 +1,6 @@
 name: GeForce-GT-1030
 humanName: GeForce GT 1030
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Decoding:

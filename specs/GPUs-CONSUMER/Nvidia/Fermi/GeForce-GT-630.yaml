@@ -1,6 +1,6 @@
 name: GeForce-GT-630
 humanName: GeForce GT 630
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

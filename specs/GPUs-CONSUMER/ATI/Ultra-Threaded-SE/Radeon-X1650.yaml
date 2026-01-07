@@ -1,6 +1,6 @@
 name: Radeon-X1650
 humanName: Radeon X1650
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: ATI

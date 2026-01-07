@@ -1,6 +1,6 @@
 name: GeForce-6600-VE
 humanName: GeForce 6600 VE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

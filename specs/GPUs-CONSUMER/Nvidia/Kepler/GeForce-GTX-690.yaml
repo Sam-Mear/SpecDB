@@ -1,6 +1,6 @@
 name: GeForce-GTX-690
 humanName: GeForce GTX 690
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

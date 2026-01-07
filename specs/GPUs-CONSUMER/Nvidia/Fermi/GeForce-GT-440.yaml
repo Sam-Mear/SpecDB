@@ -1,6 +1,6 @@
 name: GeForce-GT-440
 humanName: GeForce GT 440
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

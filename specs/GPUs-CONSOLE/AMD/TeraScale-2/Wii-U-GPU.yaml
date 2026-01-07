@@ -1,6 +1,6 @@
 name: Wii-U-GPU
 humanName: Wii U GPU
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

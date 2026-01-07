@@ -1,6 +1,6 @@
 name: Quadro-FX-380-LP
 humanName: Quadro FX 380 LP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,6 +1,6 @@
 name: Radeon-Graphics-128SP
 humanName: Radeon Graphics 128SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

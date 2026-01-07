@@ -1,6 +1,6 @@
 name: A40-PCIe
 humanName: A40 PCIe
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

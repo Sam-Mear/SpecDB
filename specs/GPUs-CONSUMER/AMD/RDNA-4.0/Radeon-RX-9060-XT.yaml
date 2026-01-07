@@ -1,6 +1,6 @@
 name: Radeon-RX-9060-XT
 humanName: Radeon RX 9060 XT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

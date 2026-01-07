@@ -1,6 +1,6 @@
 name: RTX-A2000
 humanName: RTX A2000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

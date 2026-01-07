@@ -1,6 +1,6 @@
 name: RTX-4000-SFF-Ada-Generation
 humanName: RTX 4000 SFF Ada Generation
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

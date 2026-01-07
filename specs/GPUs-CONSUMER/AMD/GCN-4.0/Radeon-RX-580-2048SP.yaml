@@ -1,6 +1,6 @@
 name: Radeon-RX-580-2048SP
 humanName: Radeon RX 580 2048SP
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

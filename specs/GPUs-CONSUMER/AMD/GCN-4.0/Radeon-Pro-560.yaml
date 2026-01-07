@@ -1,6 +1,6 @@
 name: Radeon-Pro-560
 humanName: Radeon Pro 560
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

@@ -1,6 +1,6 @@
 name: HD-Graphics-P3000
 humanName: HD Graphics P3000
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

@@ -1,6 +1,6 @@
 name: Radeon-RX-7900M
 humanName: Radeon RX 7900M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

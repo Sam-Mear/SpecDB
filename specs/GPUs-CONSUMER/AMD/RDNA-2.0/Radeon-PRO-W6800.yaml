@@ -1,6 +1,6 @@
 name: Radeon-PRO-W6800
 humanName: Radeon PRO W6800
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

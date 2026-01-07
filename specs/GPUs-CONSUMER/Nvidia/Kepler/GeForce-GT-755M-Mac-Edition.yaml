@@ -1,6 +1,6 @@
 name: GeForce-GT-755M-Mac-Edition
 humanName: GeForce GT 755M Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

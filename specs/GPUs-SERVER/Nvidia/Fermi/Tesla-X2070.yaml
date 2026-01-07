@@ -1,6 +1,6 @@
 name: Tesla-X2070
 humanName: Tesla X2070
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

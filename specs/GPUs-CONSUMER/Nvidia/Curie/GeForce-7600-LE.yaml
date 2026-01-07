@@ -1,6 +1,6 @@
 name: GeForce-7600-LE
 humanName: GeForce 7600 LE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

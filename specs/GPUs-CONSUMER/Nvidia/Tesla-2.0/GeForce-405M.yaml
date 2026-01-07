@@ -1,6 +1,6 @@
 name: GeForce-405M
 humanName: GeForce 405M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

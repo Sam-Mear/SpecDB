@@ -1,6 +1,6 @@
 name: Quadro-K510M
 humanName: Quadro K510M
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

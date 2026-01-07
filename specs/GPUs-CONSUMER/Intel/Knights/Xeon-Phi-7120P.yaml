@@ -1,6 +1,6 @@
 name: Xeon-Phi-7120P
 humanName: Xeon Phi 7120P
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

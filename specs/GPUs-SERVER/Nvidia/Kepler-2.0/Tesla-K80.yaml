@@ -1,6 +1,6 @@
 name: Tesla-K80
 humanName: Tesla K80
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

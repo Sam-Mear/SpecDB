@@ -1,6 +1,6 @@
 name: GeForce-GTX-870M
 humanName: GeForce GTX 870M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

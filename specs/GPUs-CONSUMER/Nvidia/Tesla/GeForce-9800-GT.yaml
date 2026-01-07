@@ -1,6 +1,6 @@
 name: GeForce-9800-GT
 humanName: GeForce 9800 GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

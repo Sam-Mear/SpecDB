@@ -1,6 +1,6 @@
 name: Radeon-HD-4350-PCI
 humanName: Radeon HD 4350 PCI
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

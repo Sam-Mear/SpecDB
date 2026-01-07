@@ -1,6 +1,6 @@
 name: GeForce-G210-OEM-Rev.-2
 humanName: GeForce G210 OEM Rev. 2
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

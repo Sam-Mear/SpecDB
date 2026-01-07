@@ -1,6 +1,6 @@
 name: GeForce-7900-GT
 humanName: GeForce 7900 GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

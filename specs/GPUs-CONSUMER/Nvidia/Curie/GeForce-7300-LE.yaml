@@ -1,6 +1,6 @@
 name: GeForce-7300-LE
 humanName: GeForce 7300 LE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

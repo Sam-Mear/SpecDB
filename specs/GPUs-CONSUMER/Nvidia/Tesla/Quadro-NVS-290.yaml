@@ -1,6 +1,6 @@
 name: Quadro-NVS-290
 humanName: Quadro NVS 290
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

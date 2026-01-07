@@ -1,6 +1,6 @@
 name: GeForce-GTX-460-v2
 humanName: GeForce GTX 460 v2
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

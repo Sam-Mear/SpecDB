@@ -1,6 +1,6 @@
 name: Radeon-RX-580-OEM
 humanName: Radeon RX 580 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

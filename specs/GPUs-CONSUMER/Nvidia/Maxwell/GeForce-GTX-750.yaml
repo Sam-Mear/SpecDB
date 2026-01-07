@@ -1,6 +1,6 @@
 name: GeForce-GTX-750
 humanName: GeForce GTX 750
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

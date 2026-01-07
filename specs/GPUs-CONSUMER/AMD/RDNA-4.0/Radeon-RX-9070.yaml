@@ -1,6 +1,6 @@
 name: Radeon-RX-9070
 humanName: Radeon RX 9070
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

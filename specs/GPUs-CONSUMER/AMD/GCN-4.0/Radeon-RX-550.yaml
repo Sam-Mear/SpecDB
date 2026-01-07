@@ -1,6 +1,6 @@
 name: Radeon-RX-550
 humanName: Radeon RX 550
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

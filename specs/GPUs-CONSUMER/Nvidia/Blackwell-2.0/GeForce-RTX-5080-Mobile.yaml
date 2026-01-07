@@ -1,6 +1,6 @@
 name: GeForce-RTX-5080-Mobile
 humanName: GeForce RTX 5080 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

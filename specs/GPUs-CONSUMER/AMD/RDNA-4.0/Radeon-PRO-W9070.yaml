@@ -1,6 +1,6 @@
 name: Radeon-PRO-W9070
 humanName: Radeon PRO W9070
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

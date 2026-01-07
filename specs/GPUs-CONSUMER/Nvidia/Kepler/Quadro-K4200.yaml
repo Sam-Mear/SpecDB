@@ -1,6 +1,6 @@
 name: Quadro-K4200
 humanName: Quadro K4200
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

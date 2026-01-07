@@ -1,6 +1,6 @@
 name: NVS-315
 humanName: NVS 315
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

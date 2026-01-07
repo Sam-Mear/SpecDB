@@ -1,6 +1,6 @@
 name: GeForce-GTX-950A
 humanName: GeForce GTX 950A
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

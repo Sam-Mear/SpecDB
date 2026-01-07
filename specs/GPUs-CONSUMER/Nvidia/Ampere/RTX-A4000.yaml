@@ -1,6 +1,6 @@
 name: RTX-A4000
 humanName: RTX A4000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

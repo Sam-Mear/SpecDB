@@ -1,6 +1,6 @@
 name: A100X
 humanName: A100X
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

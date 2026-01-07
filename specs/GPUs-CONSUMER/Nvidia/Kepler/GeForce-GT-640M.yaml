@@ -1,6 +1,6 @@
 name: GeForce-GT-640M
 humanName: GeForce GT 640M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

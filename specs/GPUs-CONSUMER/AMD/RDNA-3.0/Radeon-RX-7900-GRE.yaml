@@ -1,6 +1,6 @@
 name: Radeon-RX-7900-GRE
 humanName: Radeon RX 7900 GRE
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

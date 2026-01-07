@@ -1,6 +1,6 @@
 name: Quadro-FX-1800M
 humanName: Quadro FX 1800M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

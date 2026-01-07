@@ -1,6 +1,6 @@
 name: Quadro-K1200
 humanName: Quadro K1200
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

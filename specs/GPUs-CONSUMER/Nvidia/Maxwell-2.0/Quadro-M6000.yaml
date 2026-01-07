@@ -1,6 +1,6 @@
 name: Quadro-M6000
 humanName: Quadro M6000
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

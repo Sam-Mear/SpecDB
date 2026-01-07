@@ -1,7 +1,7 @@
 name: Root
 humanName: Root
 type: Generic Container
-isPart: false
+
 topHeader: "SELECT CATEGORY:"
 sections:
   - header: AMD

@@ -1,6 +1,6 @@
 name: FireGL-V8600
 humanName: FireGL V8600
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Radeon-PRO-W7500
 humanName: Radeon PRO W7500
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

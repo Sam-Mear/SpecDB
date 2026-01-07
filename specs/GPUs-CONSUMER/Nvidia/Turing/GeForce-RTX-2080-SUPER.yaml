@@ -1,6 +1,6 @@
 name: GeForce-RTX-2080-SUPER
 humanName: GeForce RTX 2080 SUPER
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

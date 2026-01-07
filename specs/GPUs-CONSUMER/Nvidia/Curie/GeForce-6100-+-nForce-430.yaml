@@ -1,6 +1,6 @@
 name: GeForce-6100-+-nForce-430
 humanName: GeForce 6100 + nForce 430
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

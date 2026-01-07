@@ -1,6 +1,6 @@
 name: NVS-810
 humanName: NVS 810
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

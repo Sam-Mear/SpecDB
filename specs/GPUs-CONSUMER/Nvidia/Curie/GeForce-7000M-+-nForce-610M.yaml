@@ -1,6 +1,6 @@
 name: GeForce-7000M-+-nForce-610M
 humanName: GeForce 7000M + nForce 610M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

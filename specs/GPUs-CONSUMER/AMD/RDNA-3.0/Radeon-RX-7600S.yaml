@@ -1,6 +1,6 @@
 name: Radeon-RX-7600S
 humanName: Radeon RX 7600S
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

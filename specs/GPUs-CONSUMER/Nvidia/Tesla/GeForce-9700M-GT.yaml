@@ -1,6 +1,6 @@
 name: GeForce-9700M-GT
 humanName: GeForce 9700M GT
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

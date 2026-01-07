@@ -1,6 +1,6 @@
 name: GeForce-RTX-3090-Ti
 humanName: GeForce RTX 3090 Ti
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

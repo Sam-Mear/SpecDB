@@ -1,6 +1,6 @@
 name: Tesla-S2050
 humanName: Tesla S2050
-isPart: true
+
 type: Graphics Card
 data:
   Market: Data center

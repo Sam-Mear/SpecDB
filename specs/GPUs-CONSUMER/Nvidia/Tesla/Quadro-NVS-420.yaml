@@ -1,6 +1,6 @@
 name: Quadro-NVS-420
 humanName: Quadro NVS 420
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

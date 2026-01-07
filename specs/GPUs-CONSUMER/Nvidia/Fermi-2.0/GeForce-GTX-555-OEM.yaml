@@ -1,6 +1,6 @@
 name: GeForce-GTX-555-OEM
 humanName: GeForce GTX 555 OEM
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

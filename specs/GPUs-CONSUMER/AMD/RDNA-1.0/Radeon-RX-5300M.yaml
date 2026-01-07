@@ -1,6 +1,6 @@
 name: Radeon-RX-5300M
 humanName: Radeon RX 5300M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

@@ -1,6 +1,6 @@
 name: Quadro-4100
 humanName: Quadro 4100
-isPart: true
+
 type: Graphics Card
 data:
   Market: Workstation

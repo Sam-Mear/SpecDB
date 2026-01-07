@@ -1,6 +1,6 @@
 name: GeForce-RTX-4060-Mobile
 humanName: GeForce RTX 4060 Mobile
-isPart: true
+
 type: Graphics Card
 data:
   Hardware Accelerated Encoding:

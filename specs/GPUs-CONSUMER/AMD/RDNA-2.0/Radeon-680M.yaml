@@ -1,6 +1,6 @@
 name: Radeon-680M
 humanName: Radeon 680M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: AMD

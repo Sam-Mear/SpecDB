@@ -1,6 +1,6 @@
 name: Data-Center-GPU-Max-1350
 humanName: Data Center GPU Max 1350
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Intel

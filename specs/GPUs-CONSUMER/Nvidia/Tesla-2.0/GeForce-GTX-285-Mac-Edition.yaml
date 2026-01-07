@@ -1,6 +1,6 @@
 name: GeForce-GTX-285-Mac-Edition
 humanName: GeForce GTX 285 Mac Edition
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

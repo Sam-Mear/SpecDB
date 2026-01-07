@@ -1,6 +1,6 @@
 name: GeForce-GT-425M
 humanName: GeForce GT 425M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

@@ -1,7 +1,7 @@
 name: PowerVR-Series5XT 
 humanName: PowerVR Series5XT
 type: Graphics Architecture
-isPart: false
+
 topHeader: 'SELECT CARD:'
 data:
   Lithography: 32 nm

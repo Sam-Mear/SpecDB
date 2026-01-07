@@ -1,6 +1,6 @@
 name: GeForce-GT-740M
 humanName: GeForce GT 740M
-isPart: true
+
 type: Graphics Card
 data:
   Manufacturer: Nvidia

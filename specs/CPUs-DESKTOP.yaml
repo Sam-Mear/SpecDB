@@ -7,6 +7,8 @@ sections:
 # Comments mean it has not yet been finished
   - header: RYZEN FAMILIES
     members:
+      - Granite-Ridge
+      - Shimada-Peak
       - Raphael
       - Vermeer
       - Castle-Peak

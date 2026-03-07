@@ -1,0 +1,28 @@
+type: Hidden
+name: Shimada-Peak-inherit
+data:
+  Architecture: Zen 5
+  Lithography: 4 nm
+  Socket: sTR5
+  Memory Type: DDR5
+  Max Memory Frequency: 6400 MHz
+  TDP: 350 W
+  Ecc Support: true
+  Market:
+    - Workstation
+  FMA4: false
+  FMA3: true
+  AES: true
+  SHA: true
+  BMI: BMI2
+  AVX/SSE/MMX: AVX-512
+  Other Extensions:
+  - MMX-plus
+  - SSE2
+  - SSE4.2
+  - SSE4A
+  - SSE4.1
+  - SSE3
+  - SSSE3
+  - SSE
+  - x86-64

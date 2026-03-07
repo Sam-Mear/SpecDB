@@ -1,0 +1,21 @@
+name: 9960X
+humanName: 9960X
+type: CPU
+inherits:
+  - Shimada-Peak-inherit
+data:
+  Release Date: '2025-07'
+  Core Count: 24
+  Thread Count: 48
+  Base Frequency: 4.2 GHz
+  Boost Frequency: 5.4 GHz
+  L3 Cache (Total): 128 MiB
+  L2 Cache (Total): 24 MiB
+  L1 Cache (Data): 1152 KiB
+  L1 Cache (Instruction): 768 KiB
+  Max Memory Channels: 4
+  PCIe 5.0 Lanes: 80
+  PCIe 4.0 Lanes: 0
+  PCIe 3.0 Lanes: 0
+  PCIe 2.0 Lanes: 0
+  PCIe 1.0 Lanes: 0

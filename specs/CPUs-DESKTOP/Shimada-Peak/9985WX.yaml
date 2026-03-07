@@ -1,0 +1,21 @@
+name: 9985WX
+humanName: 9985WX
+type: CPU
+inherits:
+  - Shimada-Peak-inherit
+data:
+  Release Date: '2025-07'
+  Core Count: 64
+  Thread Count: 128
+  Base Frequency: 3.2 GHz
+  Boost Frequency: 5.4 GHz
+  L3 Cache (Total): 256 MiB
+  L2 Cache (Total): 64 MiB
+  L1 Cache (Data): 3072 KiB
+  L1 Cache (Instruction): 2048 KiB
+  Max Memory Channels: 8
+  PCIe 5.0 Lanes: 128
+  PCIe 4.0 Lanes: 0
+  PCIe 3.0 Lanes: 8
+  PCIe 2.0 Lanes: 0
+  PCIe 1.0 Lanes: 0

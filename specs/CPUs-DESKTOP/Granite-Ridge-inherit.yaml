@@ -1,0 +1,48 @@
+type: Hidden
+name: Granite-Ridge-inherit
+data:
+  Architecture: Zen 5
+  Memory Type: DDR5
+  Max Memory Frequency: 5600 MHz
+  Max Memory Channels: 2
+  Max Memory Size: 256 GiB
+  PCIe 5.0 Lanes: 28 # 4 lanes taken up as a link to chipset
+  PCIe 4.0 Lanes: 0
+  PCIe 3.0 Lanes: 0
+  PCIe 2.0 Lanes: 0
+  PCIe 1.0 Lanes: 0
+  Ecc Support: true
+  Lithography: 5 nm
+  Socket: AM5
+  Unlocked: true
+  XFR Support: true
+  Market:
+    - Desktop
+  Compatible Chipsets:
+    - A620
+    - X670E
+    - X670
+    - B650E
+    - B650
+    - X870E
+    - X870
+    - B840
+    - B850
+  FMA4: false
+  FMA3: true
+  AES: true
+  SHA: true
+  BMI: BMI2
+  AVX/SSE/MMX: AVX-512
+  Other Extensions:
+  - MMX-plus
+  - SSE2
+  - SSE4.2
+  - SSE4A
+  - SSE4.1
+  - SSE3
+  - SSSE3
+  - SSE
+  - x86-64
+
+  

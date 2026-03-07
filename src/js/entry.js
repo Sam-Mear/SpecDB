@@ -5,8 +5,9 @@ hash.redirectHashBangs();
 
 m.route.prefix(location.protocol === 'file:' ? '#!' : '');
 m.route(document.getElementById('spec-viewer'), '/', {
-	'/about': require('./about'),
-	'/:parts...': require('./spec-viewer'),
+		'/about': require('./about'),
+		'/specdb-query': require('./specdb_query'),
+		'/:parts...': require('./spec-viewer'),
 });
 m.mount(document.getElementById('part-selector'), require('./part-selector'));
 

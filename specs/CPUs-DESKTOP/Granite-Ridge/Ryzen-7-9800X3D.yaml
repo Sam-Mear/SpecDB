@@ -1,0 +1,16 @@
+name: Ryzen-7-9800X3D
+humanName: Ryzen 7 9800X3D
+type: CPU
+inherits:
+- Granite-Ridge-inherit
+data:
+  Release Date: '2024-11-07'
+  L3 Cache (Total): 96 MiB
+  L2 Cache (Total): 8 MiB
+  L1 Cache (Data): 384 KiB
+  L1 Cache (Instruction): 256 KiB
+  TDP: 120 W
+  Core Count: 8
+  Thread Count: 16
+  Base Frequency: 4.7 GHz
+  Boost Frequency: 5.2 GHz

@@ -1,0 +1,13 @@
+name: Ryzen-9-9900X3D
+humanName: Ryzen 9 9900X3D
+type: CPU
+inherits:
+- Granite-Ridge-inherit
+data:
+  Release Date: '2025-03-12'
+  L3 Cache (Total): 128 MiB
+  TDP: 120 W
+  Core Count: 12
+  Thread Count: 24
+  Base Frequency: 4.4 GHz
+  Boost Frequency: 5.5 GHz

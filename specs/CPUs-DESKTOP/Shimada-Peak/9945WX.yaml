@@ -1,0 +1,21 @@
+name: 9945WX
+humanName: 9945WX
+type: CPU
+inherits:
+  - Shimada-Peak-inherit
+data:
+  Release Date: '2025-07'
+  Core Count: 12
+  Thread Count: 24
+  Base Frequency: 4.7 GHz
+  Boost Frequency: 5.4 GHz
+  L3 Cache (Total): 64 MiB
+  L2 Cache (Total): 12 MiB
+  L1 Cache (Data): 576 KiB
+  L1 Cache (Instruction): 384 KiB
+  Max Memory Channels: 8
+  PCIe 5.0 Lanes: 128
+  PCIe 4.0 Lanes: 0
+  PCIe 3.0 Lanes: 8
+  PCIe 2.0 Lanes: 0
+  PCIe 1.0 Lanes: 0

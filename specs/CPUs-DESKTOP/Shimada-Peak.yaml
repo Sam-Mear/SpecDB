@@ -1,0 +1,23 @@
+name: Shimada-Peak
+humanName: Shimada Peak
+type: CPU Architecture
+topHeader: 'SELECT CPU:'
+data:
+  Release Date: '2025-07'
+  Lithography: 4 nm
+  Sockets:
+    - sTR5
+sections:
+  - header: THREADRIPPER PRO
+    members:
+      - 9995WX
+      - 9985WX
+      - 9975WX
+      - 9965WX
+      - 9955WX
+      - 9945WX
+  - header: THREADRIPPER
+    members:
+      - 9980X
+      - 9970X
+      - 9960X

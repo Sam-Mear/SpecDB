@@ -1,0 +1,16 @@
+name: Ryzen-5-9600X
+humanName: Ryzen 5 9600X
+type: CPU
+inherits:
+- Granite-Ridge-inherit
+data:
+  Release Date: '2024-08-08'
+  L3 Cache (Total): 32 MiB
+  L2 Cache (Total): 6 MiB
+  L1 Cache (Data): 288 KiB
+  L1 Cache (Instruction): 192 KiB
+  TDP: 65 W
+  Core Count: 6
+  Thread Count: 12
+  Base Frequency: 3.9 GHz
+  Boost Frequency: 5.4 GHz

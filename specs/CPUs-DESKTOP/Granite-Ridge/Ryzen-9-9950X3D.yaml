@@ -1,0 +1,13 @@
+name: Ryzen-9-9950X3D
+humanName: Ryzen 9 9950X3D
+type: CPU
+inherits:
+- Granite-Ridge-inherit
+data:
+  Release Date: '2025-03-12'
+  L3 Cache (Total): 128 MiB
+  TDP: 170 W
+  Core Count: 16
+  Thread Count: 32
+  Base Frequency: 4.3 GHz
+  Boost Frequency: 5.7 GHz

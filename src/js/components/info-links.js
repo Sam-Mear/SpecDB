@@ -11,6 +11,8 @@ module.exports = {
 			' — ',
 			m('a[href=/about]', {oncreate: m.route.link}, 'About'),
 			' — ',
+			m('a[href=/specdb-query]', {oncreate: m.route.link}, 'API'),
+			' — ',
 			m('a', { href: 'https://github.com/markasoftware/SpecDB', target: '_blank', rel: 'noopener' }, 'GitHub'),
 		]),
 };
